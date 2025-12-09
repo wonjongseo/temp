@@ -1,0 +1,602 @@
+[
+  {
+    "yomikata": "きょうしゅう",
+    "word": "教習",
+    "mean": "training; instruction"
+  },
+  {
+    "yomikata": "クラブ",
+    "word": "",
+    "mean": "nightclub / clubs (card suit) / crab / golf club"
+  },
+  {
+    "yomikata": "がいねん",
+    "word": "概念",
+    "mean": "general idea; concept; notion"
+  },
+  {
+    "yomikata": "ひたす",
+    "word": "浸す",
+    "mean": "to soak; to dip; to steep; to immerse / to moisten; to wet"
+  },
+  {
+    "yomikata": "こうぎょう",
+    "word": "鉱業",
+    "mean": "mining industry"
+  },
+  {
+    "yomikata": "いとなむ",
+    "word": "営む",
+    "mean": "to run (a business); to operate; to conduct; to practice (law, medicine, etc.) / to carry out; to perform; to lead (a life) / to hold (a Buddhist or Shinto ceremony)"
+  },
+  {
+    "yomikata": "しょむ",
+    "word": "庶務",
+    "mean": "general affairs"
+  },
+  {
+    "yomikata": "こせい",
+    "word": "個性",
+    "mean": "individuality; personality; idiosyncrasy; character; individual characteristic"
+  },
+  {
+    "yomikata": "めす",
+    "word": "召す",
+    "mean": "to call; to invite; to send for; to summon / to eat; to drink / to put on; to wear / to ride / to catch (a cold); to take (a bath); to tickle (one's fancy); to put on (years); to commit (seppuku) / to do / used to show respect"
+  },
+  {
+    "yomikata": "ざんきん",
+    "word": "残金",
+    "mean": "remaining money"
+  },
+  {
+    "yomikata": "じしゅ",
+    "word": "自主",
+    "mean": "independence; autonomy; self-reliance"
+  },
+  {
+    "yomikata": "こたい",
+    "word": "固体",
+    "mean": "solid (body); solid matter; solid-state"
+  },
+  {
+    "yomikata": "へいじょう",
+    "word": "平常",
+    "mean": "normal; usual; ordinary; everyday"
+  },
+  {
+    "yomikata": "じゅうじつ",
+    "word": "充実",
+    "mean": "fullness; completion; perfection; substantiality / enhancement; improvement; enrichment; upgrading / replenishment; repletion"
+  },
+  {
+    "yomikata": "きょうぎ",
+    "word": "協議",
+    "mean": "conference; consultation; discussion; negotiation"
+  },
+  {
+    "yomikata": "こぐ",
+    "word": "漕ぐ",
+    "mean": "to row; to scull; to paddle / to pedal (e.g. bicycle) / to swing (on a swing) / to operate a hand pump / to push through (deep snow, the jungle, etc.)"
+  },
+  {
+    "yomikata": "えつらん",
+    "word": "閲覧",
+    "mean": "inspection; reading; perusal / browsing (the web)"
+  },
+  {
+    "yomikata": "あせる",
+    "word": "焦る",
+    "mean": "to be in a hurry; to be impatient; to be flustered; to lose one's presence of mind; to be surprised"
+  },
+  {
+    "yomikata": "ひのまる",
+    "word": "日の丸",
+    "mean": "outline of the sun (esp. represented as a red circle) / the Japanese flag"
+  },
+  {
+    "yomikata": "とじょう",
+    "word": "途上",
+    "mean": "en route; half-way / on the road; in the street"
+  },
+  {
+    "yomikata": "けいばつ",
+    "word": "刑罰",
+    "mean": "judgement; judgment; penalty; punishment"
+  },
+  {
+    "yomikata": "まうえ",
+    "word": "真上",
+    "mean": "just above; right overhead"
+  },
+  {
+    "yomikata": "かける",
+    "word": "駆ける",
+    "mean": "to run (race, esp. horse); to dash / to gallop (one's horse); to canter / to advance (against one's enemy)"
+  },
+  {
+    "yomikata": "とりあえず",
+    "word": "取り敢えず",
+    "mean": "first of all; at once; right away / for now; for the time being"
+  },
+  {
+    "yomikata": "がっくり",
+    "word": "",
+    "mean": "heartbroken; crestfallen; dejected; disappointed"
+  },
+  {
+    "yomikata": "ひらたい",
+    "word": "平たい",
+    "mean": "flat; even; level; simple / plain (speech, etc.); simple"
+  },
+  {
+    "yomikata": "こうふん",
+    "word": "興奮",
+    "mean": "excitement; stimulation; agitation; arousal"
+  },
+  {
+    "yomikata": "ぜつぼう",
+    "word": "絶望",
+    "mean": "despair; hopelessness"
+  },
+  {
+    "yomikata": "きょうしょく",
+    "word": "教職",
+    "mean": "the teaching profession / education of laity (in Christianity)"
+  },
+  {
+    "yomikata": "ありさま",
+    "word": "有様",
+    "mean": "state; condition; circumstances; sight; spectacle / the way things should be; ideal state / truth"
+  },
+  {
+    "yomikata": "そうび",
+    "word": "装備",
+    "mean": "equipment"
+  },
+  {
+    "yomikata": "かんご",
+    "word": "看護",
+    "mean": "nursing; (army) nurse"
+  },
+  {
+    "yomikata": "のべ",
+    "word": "延べ",
+    "mean": "futures / credit (buying) / stretching / total (preceding counter, unit, etc.); aggregate; gross"
+  },
+  {
+    "yomikata": "いためる",
+    "word": "痛める",
+    "mean": "to hurt; to injure; to cause pain / to harm; to damage; to spoil / to worry; to bother; to be grieved over; to afflict / to cause financial loss; to hurt one's pocket"
+  },
+  {
+    "yomikata": "けっこう",
+    "word": "決行",
+    "mean": "doing (with resolve); carrying out (e.g. a plan)"
+  },
+  {
+    "yomikata": "とげる",
+    "word": "遂げる",
+    "mean": "to accomplish; to achieve; to carry out / to arrive at (a certain outcome); to come to; to end with"
+  },
+  {
+    "yomikata": "しんにん",
+    "word": "信任",
+    "mean": "trust; confidence; credence"
+  },
+  {
+    "yomikata": "うず",
+    "word": "渦",
+    "mean": "whirlpool; swirl; eddy; vortex; maelstrom"
+  },
+  {
+    "yomikata": "チームワーク",
+    "word": "",
+    "mean": "teamwork"
+  },
+  {
+    "yomikata": "すいそく",
+    "word": "推測",
+    "mean": "guess; conjecture"
+  },
+  {
+    "yomikata": "かく",
+    "word": "佳句",
+    "mean": "beautiful passage of literature"
+  },
+  {
+    "yomikata": "きゅうじ",
+    "word": "旧事",
+    "mean": "past events; bygones"
+  },
+  {
+    "yomikata": "ごらんなさい",
+    "word": "御覧なさい",
+    "mean": "(please) look / see / (please) try to do"
+  },
+  {
+    "yomikata": "とうぎ",
+    "word": "討議",
+    "mean": "debate; discussion"
+  },
+  {
+    "yomikata": "ねびき",
+    "word": "値引き",
+    "mean": "price reduction; discount"
+  },
+  {
+    "yomikata": "しっそ",
+    "word": "質素",
+    "mean": "simple; plain / modest; frugal; reserved"
+  },
+  {
+    "yomikata": "せっしょく",
+    "word": "接触",
+    "mean": "touch; contact"
+  },
+  {
+    "yomikata": "ナイター",
+    "word": "",
+    "mean": "game under lights (e.g. baseball); night game"
+  },
+  {
+    "yomikata": "くぎり",
+    "word": "区切り",
+    "mean": "punctuation; pause; juncture / end; (place to) stop"
+  },
+  {
+    "yomikata": "たすけ",
+    "word": "助け",
+    "mean": "assistance; help; aid; support; reinforcement"
+  },
+  {
+    "yomikata": "たいか",
+    "word": "退化",
+    "mean": "degeneration; retrogression"
+  },
+  {
+    "yomikata": "レンタカー",
+    "word": "",
+    "mean": "rental car; rent-a-car; hired auto / car rental agency; car hire agency; hire car agency"
+  },
+  {
+    "yomikata": "ちゃくしゅ",
+    "word": "着手",
+    "mean": "to start work (on); to undertake / to start committing a crime / embarkation; launch"
+  },
+  {
+    "yomikata": "しゅび",
+    "word": "守備",
+    "mean": "defense; defence"
+  },
+  {
+    "yomikata": "しんしゅつ",
+    "word": "進出",
+    "mean": "advance (into a new market or stage of progress); launching (a new career or venture); expanding (into a new market); stepping forward; emerging"
+  },
+  {
+    "yomikata": "さきに",
+    "word": "先に",
+    "mean": "before; earlier than; first; ahead; beyond; away; previously; recently"
+  },
+  {
+    "yomikata": "ほうび",
+    "word": "褒美",
+    "mean": "reward; prize"
+  },
+  {
+    "yomikata": "がいとう",
+    "word": "街頭",
+    "mean": "(on the) street"
+  },
+  {
+    "yomikata": "かまえる",
+    "word": "構える",
+    "mean": "to set up (a house, store, etc.); to build; to establish; to run; to maintain / to have at the ready (e.g. a gun); to hold in preparation (e.g. a camera); to prepare in advance (e.g. a meal) / to adopt a posture; to assume a stance; to stand ready; to be poised for / to put on an air; to assume an attitude / to stiffen; to tense up; to become formal / to fabricate in order to deceive; to make up; to feign / to plan; to scheme"
+  },
+  {
+    "yomikata": "てんか",
+    "word": "点火",
+    "mean": "ignition; lighting; set fire to"
+  },
+  {
+    "yomikata": "てんかい",
+    "word": "転回",
+    "mean": "revolution; rotation"
+  },
+  {
+    "yomikata": "しょうちょう",
+    "word": "象徴",
+    "mean": "symbol"
+  },
+  {
+    "yomikata": "こもる",
+    "word": "籠もる",
+    "mean": "to shut oneself in (e.g. one's room); to be confined in; to seclude oneself; to hide away; to stay inside (one's shell) / to be filled with (emotion, enthusiasm, etc.) / to fill the room (of a gas, smell, etc.); to be heavy with (e.g. smoke); to be stuffy; to be dense / to be muffled (e.g. voice) / to hold (a castle, fortress, etc.) / to confine oneself in a temple to pray"
+  },
+  {
+    "yomikata": "あいそう",
+    "word": "愛想",
+    "mean": "amiability; friendliness; affability; sociability / fondness (of someone); affection; liking / compliments; civilities; courtesies; flattery / hospitality; special treatment; entertainment / bill (at a restaurant); check"
+  },
+  {
+    "yomikata": "みつど",
+    "word": "密度",
+    "mean": "density"
+  },
+  {
+    "yomikata": "あい",
+    "word": "相",
+    "mean": "together; mutually; fellow"
+  },
+  {
+    "yomikata": "しんろ",
+    "word": "進路",
+    "mean": "route; course; path / one's future course (e.g. after graduating high school)"
+  },
+  {
+    "yomikata": "ドライバー",
+    "word": "",
+    "mean": "driver (of a vehicle) / screwdriver / driver (golf) / driver; device driver"
+  },
+  {
+    "yomikata": "こうそく",
+    "word": "拘束",
+    "mean": "restriction; restraint; binding; constraint"
+  },
+  {
+    "yomikata": "あやまち",
+    "word": "過ち",
+    "mean": "fault; error; indiscretion; faux pas"
+  },
+  {
+    "yomikata": "ほっそく",
+    "word": "発足",
+    "mean": "starting; inauguration; launch; founding; establishment; start-up"
+  },
+  {
+    "yomikata": "しょみん",
+    "word": "庶民",
+    "mean": "masses; common people"
+  },
+  {
+    "yomikata": "そくする",
+    "word": "即する",
+    "mean": "to conform to; to agree with; to be adapted to; to be based on"
+  },
+  {
+    "yomikata": "へきえき",
+    "word": "辟易",
+    "mean": "to be stumped; to be nonplussed; to be disconcerted; to dumbfounded / to be fed up with; to be tired of; to find unable to bear / to wince; to shrink back; to cringe"
+  },
+  {
+    "yomikata": "ぬま",
+    "word": "沼",
+    "mean": "marsh; swamp; wetland; bog; pond"
+  },
+  {
+    "yomikata": "あいぞう",
+    "word": "愛憎",
+    "mean": "love and hate"
+  },
+  {
+    "yomikata": "まちあわせ",
+    "word": "待ち合わせ",
+    "mean": "appointment"
+  },
+  {
+    "yomikata": "せいじゅく",
+    "word": "成熟",
+    "mean": "maturity; ripeness"
+  },
+  {
+    "yomikata": "コマーシャル",
+    "word": "",
+    "mean": "commercial (e.g. TV)"
+  },
+  {
+    "yomikata": "どうやら",
+    "word": "",
+    "mean": "it seems like; it appears that / somehow or other"
+  },
+  {
+    "yomikata": "よくぼう",
+    "word": "欲望",
+    "mean": "desire; appetite; lust"
+  },
+  {
+    "yomikata": "かんせい",
+    "word": "歓声",
+    "mean": "cheer; shout of joy"
+  },
+  {
+    "yomikata": "おおかた",
+    "word": "大方",
+    "mean": "large part; greater part; majority / people in general; general public; public at large / mostly; for the most part; almost; nearly / probably; maybe; perhaps"
+  },
+  {
+    "yomikata": "うめぼし",
+    "word": "梅干し",
+    "mean": "umeboshi; pickled dried ume; pickled dried plum"
+  },
+  {
+    "yomikata": "あご",
+    "word": "顎",
+    "mean": "chin; jaw"
+  },
+  {
+    "yomikata": "すんなり",
+    "word": "",
+    "mean": "slim; slender; lithe; supple / smoothly; without resistance; without trouble; without difficulty; without dissent; easily; readily"
+  },
+  {
+    "yomikata": "じょうりく",
+    "word": "上陸",
+    "mean": "landing; disembarkation; landfall"
+  },
+  {
+    "yomikata": "タワー",
+    "word": "",
+    "mean": "tower"
+  },
+  {
+    "yomikata": "なまり",
+    "word": "鉛",
+    "mean": "lead (Pb)"
+  },
+  {
+    "yomikata": "もうしぶん",
+    "word": "申し分",
+    "mean": "objection; shortcomings"
+  },
+  {
+    "yomikata": "アワー",
+    "word": "",
+    "mean": "hour"
+  },
+  {
+    "yomikata": "げん",
+    "word": "原",
+    "mean": "original; primitive; primary; fundamental; raw"
+  },
+  {
+    "yomikata": "しかけ",
+    "word": "仕掛け",
+    "mean": "device; contrivance; mechanism; gadget / trick; trap; calculated manipulation; gambit / (small) scale; half finished / commencement; initiation / set up; laying out; preparation / challenge; attack"
+  },
+  {
+    "yomikata": "ちょうかく",
+    "word": "聴覚",
+    "mean": "the sense of hearing"
+  },
+  {
+    "yomikata": "たまり",
+    "word": "溜まり",
+    "mean": "pile; pool; collection / gathering spot / waiting place for a wrestler beside the ring / liquid runoff from miso preparation / tamari; variety of rich soy sauce (used for sashimi, etc.)"
+  },
+  {
+    "yomikata": "じぞく",
+    "word": "持続",
+    "mean": "continuation; persisting; lasting; sustaining; enduring"
+  },
+  {
+    "yomikata": "えんずる",
+    "word": "演ずる",
+    "mean": "to perform; to play"
+  },
+  {
+    "yomikata": "げっそり",
+    "word": "",
+    "mean": "being disheartened; being dejected / losing a lot of weight; becoming very thin"
+  },
+  {
+    "yomikata": "イエス",
+    "word": "",
+    "mean": "Jesus / yes"
+  },
+  {
+    "yomikata": "しようにん",
+    "word": "使用人",
+    "mean": "employee; servant"
+  },
+  {
+    "yomikata": "かいにゅう",
+    "word": "介入",
+    "mean": "intervention"
+  },
+  {
+    "yomikata": "くらい",
+    "word": "",
+    "mean": "approximately; about; around; or so / to (about) the extent that; (almost) enough that; so ... that ...; at least / as ... as ...; like"
+  },
+  {
+    "yomikata": "ぐち",
+    "word": "愚痴",
+    "mean": "idle complaint; grumble / moha (ignorance, folly)"
+  },
+  {
+    "yomikata": "けんよう",
+    "word": "兼用",
+    "mean": "multi-use; combined use; combination; serving two purposes"
+  },
+  {
+    "yomikata": "げんし",
+    "word": "原子",
+    "mean": "atom"
+  },
+  {
+    "yomikata": "おろか",
+    "word": "愚か",
+    "mean": "foolish; stupid"
+  },
+  {
+    "yomikata": "かんぺき",
+    "word": "完璧",
+    "mean": "perfect; complete; flawless"
+  },
+  {
+    "yomikata": "たしざん",
+    "word": "足し算",
+    "mean": "addition"
+  },
+  {
+    "yomikata": "だんけつ",
+    "word": "団結",
+    "mean": "unity; union; solidarity; combination; teaming up"
+  },
+  {
+    "yomikata": "なんだかんだ",
+    "word": "何だかんだ",
+    "mean": "something or other; one thing or another; this or that"
+  },
+  {
+    "yomikata": "だげき",
+    "word": "打撃",
+    "mean": "blow; shock; strike; damage / batting"
+  },
+  {
+    "yomikata": "けいかい",
+    "word": "軽快",
+    "mean": "light (of movements); nimble; sprightly; springy / light-hearted; cheerful; buoyant; jaunty; casual (e.g. clothing); rhythmical (e.g. melody) / taking a turn for the better (of an illness); receding of symptoms; recovery; convalescence"
+  },
+  {
+    "yomikata": "つく",
+    "word": "吐く",
+    "mean": "to breathe out; to breathe / to tell (a lie); to use (foul language) / to vomit; to throw up; to spit up"
+  },
+  {
+    "yomikata": "ゆうかん",
+    "word": "勇敢",
+    "mean": "brave; heroic; gallant"
+  },
+  {
+    "yomikata": "かんゆう",
+    "word": "勧誘",
+    "mean": "invitation; solicitation; canvassing; canvasing; inducement; persuasion; encouragement"
+  },
+  {
+    "yomikata": "かごう",
+    "word": "化合",
+    "mean": "chemical combination"
+  },
+  {
+    "yomikata": "てんこう",
+    "word": "転校",
+    "mean": "changing schools"
+  },
+  {
+    "yomikata": "じょうふ",
+    "word": "丈夫",
+    "mean": "hero; manly person; warrior"
+  },
+  {
+    "yomikata": "とむ",
+    "word": "富む",
+    "mean": "to be rich in; to abound in; to be abundant in; to be full of / to be rich; to be wealthy"
+  },
+  {
+    "yomikata": "へん",
+    "word": "偏",
+    "mean": "left-hand radical of a character"
+  }
+]

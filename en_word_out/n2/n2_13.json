@@ -1,0 +1,602 @@
+[
+  {
+    "yomikata": "けんちょう",
+    "word": "県庁",
+    "mean": "prefectural office"
+  },
+  {
+    "yomikata": "とうばん",
+    "word": "当番",
+    "mean": "being on duty; person on duty"
+  },
+  {
+    "yomikata": "だんち",
+    "word": "団地",
+    "mean": "multi-unit apartments; apartment complex"
+  },
+  {
+    "yomikata": "さいじつ",
+    "word": "祭日",
+    "mean": "national holiday; festival day"
+  },
+  {
+    "yomikata": "くだける",
+    "word": "砕ける",
+    "mean": "to break (into pieces); to be broken; to be smashed / to collapse; to crumble; to decline; to cool (e.g. enthusiasm); to dampen (e.g. one's will to fight) / to become less formal; to throw off reserve; to become affable / to become easy to understand (e.g. a story) / to be worried"
+  },
+  {
+    "yomikata": "でんせん",
+    "word": "伝染",
+    "mean": "contagion; infection"
+  },
+  {
+    "yomikata": "ひらがな",
+    "word": "平仮名",
+    "mean": "hiragana; cursive Japanese syllabary used primarily for native Japanese words (esp. function words, inflections, etc.)"
+  },
+  {
+    "yomikata": "たちどまる",
+    "word": "立ち止まる",
+    "mean": "to stop; to halt; to stand still"
+  },
+  {
+    "yomikata": "げじゅん",
+    "word": "下旬",
+    "mean": "last third of a month; 21st to the last day of a month"
+  },
+  {
+    "yomikata": "てぬぐい",
+    "word": "手ぬぐい",
+    "mean": "(hand) towel"
+  },
+  {
+    "yomikata": "めいし",
+    "word": "名詞",
+    "mean": "noun"
+  },
+  {
+    "yomikata": "おきのどくに",
+    "word": "お気の毒に",
+    "mean": "my sympathies; that's too bad; my condolences"
+  },
+  {
+    "yomikata": "しく",
+    "word": "敷く",
+    "mean": "to spread out; to lay out / to take a position / to impose widely (e.g. over a city)"
+  },
+  {
+    "yomikata": "きせる",
+    "word": "着せる",
+    "mean": "to put clothes on (someone) / to plate; to gild; to veneer / to accuse (of some crime); to give (a bad name)"
+  },
+  {
+    "yomikata": "でいりぐち",
+    "word": "出入り口",
+    "mean": "exit and entrance"
+  },
+  {
+    "yomikata": "かねる",
+    "word": "兼ねる",
+    "mean": "to be unable to; to find difficult (unpleasant, awkward, painful) to do / to serve two or more functions or roles simultaneously; to contain (or combine) two or more features / to work in two or more jobs simultaneously (positions, etc.); to do alongside / to hesitate to do something (out of consideration for others) / to think of the future (as well as the present)"
+  },
+  {
+    "yomikata": "りか",
+    "word": "理科",
+    "mean": "science (inc. mathematics, medicine, etc.); natural science / science department (university); science course / science (as a school subject)"
+  },
+  {
+    "yomikata": "かんとう",
+    "word": "関東",
+    "mean": "Kanto; region consisting of Tokyo and surrounding prefectures / Kanto; north-eastern half of Japan (during the feudal era)"
+  },
+  {
+    "yomikata": "しょうきょくてき",
+    "word": "消極的",
+    "mean": "negative; passive; half-hearted; unmotivated"
+  },
+  {
+    "yomikata": "りょう",
+    "word": "寮",
+    "mean": "hostel; dormitory / bureau (government department beneath a ministry under the ritsuryo system)"
+  },
+  {
+    "yomikata": "いれもの",
+    "word": "入れ物",
+    "mean": "container; case; receptacle / coffin; casket"
+  },
+  {
+    "yomikata": "とどまる",
+    "word": "止まる",
+    "mean": "to remain; to abide; to stay (in the one place) / to be limited to; to be confined to"
+  },
+  {
+    "yomikata": "わふく",
+    "word": "和服",
+    "mean": "Japanese clothes"
+  },
+  {
+    "yomikata": "ふぶき",
+    "word": "吹雪",
+    "mean": "snow storm; blizzard"
+  },
+  {
+    "yomikata": "サラリーマン",
+    "word": "",
+    "mean": "office worker; company employee; company man"
+  },
+  {
+    "yomikata": "じょうじゅん",
+    "word": "上旬",
+    "mean": "first 10 days of month"
+  },
+  {
+    "yomikata": "はめる",
+    "word": "嵌める",
+    "mean": "to insert; to put in (such that there is a snug fit); to button; to put on (something that envelops, e.g. gloves, ring) / to have sex; to fuck / to pigeonhole (into a particular category) / to place a ring-shaped object around something (esp. one that restricts freedom, such as handcuffs) / to entrap; to set someone up (e.g. frame them for a crime, etc.)"
+  },
+  {
+    "yomikata": "ちょくぜん",
+    "word": "直前",
+    "mean": "just before"
+  },
+  {
+    "yomikata": "かきとり",
+    "word": "書き取り",
+    "mean": "writing down from other written material; writing kanji text from hiragana / transcription (of spoken material)"
+  },
+  {
+    "yomikata": "そしつ",
+    "word": "素質",
+    "mean": "character; qualities; genius; the makings of"
+  },
+  {
+    "yomikata": "げっきゅう",
+    "word": "月給",
+    "mean": "monthly salary"
+  },
+  {
+    "yomikata": "ひかげ",
+    "word": "日陰",
+    "mean": "shade; shadow / sunshine"
+  },
+  {
+    "yomikata": "がっき",
+    "word": "楽器",
+    "mean": "musical instrument"
+  },
+  {
+    "yomikata": "たとえる",
+    "word": "例える",
+    "mean": "to compare (something) to; to liken; to speak figuratively; to use a simile; to use a metaphor"
+  },
+  {
+    "yomikata": "くだる",
+    "word": "下る",
+    "mean": "to descend; to go down; to come down / to be handed down (of an order, judgment, etc.) / to pass (of time) / to surrender; to capitulate / to be less than; to be inferior to / to have the runs; to have diarrhea / to pass (in stool); to be discharged from the body / to depreciate oneself; to be humble"
+  },
+  {
+    "yomikata": "テーマ",
+    "word": "",
+    "mean": "theme; topic; subject matter; motif; project; slogan"
+  },
+  {
+    "yomikata": "かわる",
+    "word": "替わる",
+    "mean": "to succeed; to relieve; to replace / to take the place of; to substitute for; to take over for; to represent; to hand over (telephone) / to be exchanged; to change (places with); to switch"
+  },
+  {
+    "yomikata": "もぐる",
+    "word": "潜る",
+    "mean": "to dive (into or under water) / to get under; to get into; to get in; to creep into; to crawl under; to bury oneself; to burrow into; to dig oneself into; to snuggle under / to hide oneself (esp. from the government); to conceal oneself; to go underground"
+  },
+  {
+    "yomikata": "おとしもの",
+    "word": "落とし物",
+    "mean": "lost property; something dropped and left behind"
+  },
+  {
+    "yomikata": "いつのまにか",
+    "word": "いつの間にか",
+    "mean": "before one knows; before one becomes aware of; unnoticed; unawares"
+  },
+  {
+    "yomikata": "すいてき",
+    "word": "水滴",
+    "mean": "drop of water / vessel for replenishing inkstone water"
+  },
+  {
+    "yomikata": "かねつ",
+    "word": "加熱",
+    "mean": "heating; application of heat"
+  },
+  {
+    "yomikata": "かいさつ",
+    "word": "改札",
+    "mean": "examination of tickets / ticket gate; ticket barrier"
+  },
+  {
+    "yomikata": "くいき",
+    "word": "区域",
+    "mean": "limits; boundary; domain; zone; sphere; territory / area (e.g. in programming languages)"
+  },
+  {
+    "yomikata": "いくぶん",
+    "word": "幾分",
+    "mean": "somewhat; to some extent; to some degree / some; part; portion"
+  },
+  {
+    "yomikata": "ゆうえんち",
+    "word": "遊園地",
+    "mean": "amusement park"
+  },
+  {
+    "yomikata": "すっきり",
+    "word": "",
+    "mean": "refreshingly; with a feeling of relief; pleasantly; (a weight) off one's shoulder / shapely; neatly; refinedly / cleanly; without trouble / clearly; plainly; distinctly / completely; thoroughly / not at all (with negative sentence); not even slightly"
+  },
+  {
+    "yomikata": "どうわ",
+    "word": "童話",
+    "mean": "children's story; fairy tale"
+  },
+  {
+    "yomikata": "スクール",
+    "word": "",
+    "mean": "school"
+  },
+  {
+    "yomikata": "おうずる",
+    "word": "応ずる",
+    "mean": "to answer; to respond; to meet / to satisfy; to accept"
+  },
+  {
+    "yomikata": "げんり",
+    "word": "原理",
+    "mean": "principle; theory; fundamental truth"
+  },
+  {
+    "yomikata": "たんこう",
+    "word": "炭鉱",
+    "mean": "coal mine; coal pit"
+  },
+  {
+    "yomikata": "はやる",
+    "word": "流行る",
+    "mean": "to be popular; to come into fashion / to be prevalent; to spread widely (e.g. disease); to be endemic / to flourish; to thrive"
+  },
+  {
+    "yomikata": "ごぶさた",
+    "word": "ご無沙汰",
+    "mean": "not writing or contacting for a while; neglecting (failing) to write (call, visit, etc.); long silence"
+  },
+  {
+    "yomikata": "ばんざい",
+    "word": "万歳",
+    "mean": "crying \"banzai (or raising one's hands in the banzai gesture) / something worthy of celebration / giving up / long time / eternal life (and prosperity) / banzai (a celebratory cheer); hurrah (hooray"
+  },
+  {
+    "yomikata": "そくたつ",
+    "word": "速達",
+    "mean": "express; special delivery"
+  },
+  {
+    "yomikata": "かくじ",
+    "word": "各自",
+    "mean": "each (person); everyone; individual; respective"
+  },
+  {
+    "yomikata": "こうとう",
+    "word": "高等",
+    "mean": "high class; high grade"
+  },
+  {
+    "yomikata": "まぶしい",
+    "word": "眩しい",
+    "mean": "dazzling; radiant"
+  },
+  {
+    "yomikata": "つぐ",
+    "word": "次ぐ",
+    "mean": "to rank next to; to come after"
+  },
+  {
+    "yomikata": "マスク",
+    "word": "",
+    "mean": "(face) mask / (facial) features; looks / mask (e.g. for circuit etching)"
+  },
+  {
+    "yomikata": "いってまいります",
+    "word": "行ってまいります",
+    "mean": "good bye; I'm off; see you later"
+  },
+  {
+    "yomikata": "かわら",
+    "word": "瓦",
+    "mean": "roof tile"
+  },
+  {
+    "yomikata": "せともの",
+    "word": "瀬戸物",
+    "mean": "earthenware; porcelain; china; pottery; crockery"
+  },
+  {
+    "yomikata": "ハンドル",
+    "word": "",
+    "mean": "handle / steering wheel / (bicycle) handlebar"
+  },
+  {
+    "yomikata": "たかめる",
+    "word": "高める",
+    "mean": "to raise; to lift; to boost; to enhance"
+  },
+  {
+    "yomikata": "ねらい",
+    "word": "狙い",
+    "mean": "aim"
+  },
+  {
+    "yomikata": "げんじゅう",
+    "word": "厳重",
+    "mean": "strict; severe; stringent; rigorous; rigid; firm; strong; secure"
+  },
+  {
+    "yomikata": "かな",
+    "word": "仮名",
+    "mean": "kana; Japanese syllabary (i.e. hiragana, katakana)"
+  },
+  {
+    "yomikata": "おどろかす",
+    "word": "驚かす",
+    "mean": "to surprise; to frighten; to create a stir"
+  },
+  {
+    "yomikata": "にえる",
+    "word": "煮える",
+    "mean": "to be boiled; to be cooked"
+  },
+  {
+    "yomikata": "おんたい",
+    "word": "温帯",
+    "mean": "temperate zone"
+  },
+  {
+    "yomikata": "かいかん",
+    "word": "会館",
+    "mean": "meeting hall; assembly hall"
+  },
+  {
+    "yomikata": "やっぱり",
+    "word": "矢っ張り",
+    "mean": "too; also; likewise; either / still; as before / even so; either way; after all; nonetheless; in any event; all the same / as expected"
+  },
+  {
+    "yomikata": "さす",
+    "word": "刺す",
+    "mean": "to pierce; to stab; to prick; to stick; to thrust / to sting; to bite / to sew; to stitch; to embroider / to pole (a boat) / to catch (with a limed pole) / to put (a runner) out; to pick off"
+  },
+  {
+    "yomikata": "ふつう",
+    "word": "不通",
+    "mean": "suspension; interruption; stoppage; tie-up; cessation"
+  },
+  {
+    "yomikata": "ようちえん",
+    "word": "幼稚園",
+    "mean": "kindergarten"
+  },
+  {
+    "yomikata": "めいずる",
+    "word": "命ずる",
+    "mean": "to order; to command / to appoint"
+  },
+  {
+    "yomikata": "ブローチ",
+    "word": "",
+    "mean": "brooch"
+  },
+  {
+    "yomikata": "ほがらか",
+    "word": "朗らか",
+    "mean": "cheerful; merry; sunny; melodious / bright (sky, day, etc.); fine; clear"
+  },
+  {
+    "yomikata": "にくらしい",
+    "word": "憎らしい",
+    "mean": "odious; hateful; detestable; horrible / (speaking ironically) darling"
+  },
+  {
+    "yomikata": "みおろす",
+    "word": "見下ろす",
+    "mean": "to overlook; to command a view of; to look down on / to despise; to look down on"
+  },
+  {
+    "yomikata": "すいじょうき",
+    "word": "水蒸気",
+    "mean": "water vapour; water vapor; steam"
+  },
+  {
+    "yomikata": "ふけつ",
+    "word": "不潔",
+    "mean": "unclean; dirty; unsanitary; filthy / indecent; dirty (story, money, etc.); obscene; immoral"
+  },
+  {
+    "yomikata": "しんずる",
+    "word": "信ずる",
+    "mean": "to believe; to believe in; to place trust in; to confide in; to have faith in"
+  },
+  {
+    "yomikata": "えんげき",
+    "word": "演劇",
+    "mean": "drama; theatre; theater; play"
+  },
+  {
+    "yomikata": "かきとめ",
+    "word": "書留",
+    "mean": "registered mail; registered post; registration (of mail) / (putting on) record; writing down; noting down; registry"
+  },
+  {
+    "yomikata": "ひねる",
+    "word": "捻る",
+    "mean": "to twist; to wrench; to turn (a switch on or off, etc.); to wring (a neck) / to puzzle over / to defeat easily"
+  },
+  {
+    "yomikata": "しゅっきん",
+    "word": "出勤",
+    "mean": "attendance (at work); being at work; presence (in the office); going to work; reporting for work"
+  },
+  {
+    "yomikata": "ようせき",
+    "word": "容積",
+    "mean": "capacity; volume"
+  },
+  {
+    "yomikata": "おんなのひと",
+    "word": "女の人",
+    "mean": "woman"
+  },
+  {
+    "yomikata": "かさねる",
+    "word": "重ねる",
+    "mean": "to pile up; to heap up; to stack up; to put on top of another / to repeat many times over; to go through repeatedly; to accumulate"
+  },
+  {
+    "yomikata": "ひるね",
+    "word": "昼寝",
+    "mean": "nap (afternoon); siesta"
+  },
+  {
+    "yomikata": "からっぽ",
+    "word": "空っぽ",
+    "mean": "empty; vacant; hollow"
+  },
+  {
+    "yomikata": "ずらり",
+    "word": "",
+    "mean": "in a row"
+  },
+  {
+    "yomikata": "げしゃ",
+    "word": "下車",
+    "mean": "alighting (from train, bus, etc.); getting off"
+  },
+  {
+    "yomikata": "きざむ",
+    "word": "刻む",
+    "mean": "to mince; to cut fine; to chop up; to hash; to shred / to carve; to engrave; to chisel; to notch / to tick away (time); to beat out (e.g. rhythm); to record the passing moments / to etch (into one's mind); to remember distinctly / to have tattooed / to torment"
+  },
+  {
+    "yomikata": "めんせき",
+    "word": "面積",
+    "mean": "square measure; size (e.g. of land); area; surface"
+  },
+  {
+    "yomikata": "せんぞ",
+    "word": "先祖",
+    "mean": "ancestor"
+  },
+  {
+    "yomikata": "へいや",
+    "word": "平野",
+    "mean": "plain; open field"
+  },
+  {
+    "yomikata": "ずひょう",
+    "word": "図表",
+    "mean": "chart; diagram; graph; figure"
+  },
+  {
+    "yomikata": "たんす",
+    "word": "箪笥",
+    "mean": "chest of drawers; bureau; cabinet; tansu; dresser"
+  },
+  {
+    "yomikata": "ストップ",
+    "word": "",
+    "mean": "stop"
+  },
+  {
+    "yomikata": "ちゅうせい",
+    "word": "中性",
+    "mean": "neutrality (incl. chemical, electrical, etc.); indifference / sexlessness; androgyny; androgyne; neuter / neuter gender"
+  },
+  {
+    "yomikata": "かんちょう",
+    "word": "官庁",
+    "mean": "government office; government agency; authorities"
+  },
+  {
+    "yomikata": "くやしい",
+    "word": "悔しい",
+    "mean": "vexing; annoying; frustrating; regrettable; mortifying"
+  },
+  {
+    "yomikata": "おうよう",
+    "word": "応用",
+    "mean": "(practical) application; putting to practical use / applied"
+  },
+  {
+    "yomikata": "うすめる",
+    "word": "薄める",
+    "mean": "to dilute; to water down"
+  },
+  {
+    "yomikata": "とくばい",
+    "word": "特売",
+    "mean": "special sale"
+  },
+  {
+    "yomikata": "たんき",
+    "word": "短期",
+    "mean": "short-term"
+  },
+  {
+    "yomikata": "しゅうじ",
+    "word": "習字",
+    "mean": "penmanship"
+  },
+  {
+    "yomikata": "げひん",
+    "word": "下品",
+    "mean": "vulgar; indecent; coarse; crude"
+  },
+  {
+    "yomikata": "ぎょぎょう",
+    "word": "漁業",
+    "mean": "fishing (industry)"
+  },
+  {
+    "yomikata": "くたびれる",
+    "word": "草臥れる",
+    "mean": "to get tired; to be exhausted / to wear out; to be battered from long use"
+  },
+  {
+    "yomikata": "どう",
+    "word": "銅",
+    "mean": "copper (Cu) / bronze (medal)"
+  },
+  {
+    "yomikata": "えいぶん",
+    "word": "英文",
+    "mean": "English writing; English sentence; English text / English literature; English lit"
+  },
+  {
+    "yomikata": "もくざい",
+    "word": "木材",
+    "mean": "lumber; timber; wood"
+  },
+  {
+    "yomikata": "むらさき",
+    "word": "紫",
+    "mean": "purple; violet / Lithospermum erythrorhizon (species of gromwell) / type of soy sauce"
+  },
+  {
+    "yomikata": "しゅっちょう",
+    "word": "出張",
+    "mean": "official tour; business trip"
+  },
+  {
+    "yomikata": "いったん",
+    "word": "一旦",
+    "mean": "once / for a short time; briefly; temporarily / one morning"
+  }
+]

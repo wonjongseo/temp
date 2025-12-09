@@ -1,0 +1,602 @@
+[
+  {
+    "yomikata": "さき",
+    "word": "先",
+    "mean": "previous; prior; former; first; earlier; some time ago; preceding / point (e.g. pencil); tip; end; nozzle / head (of a line); front / ahead; the other side / the future; hereafter / destination / the other party"
+  },
+  {
+    "yomikata": "はいる",
+    "word": "入る",
+    "mean": "to enter; to go into / to break into / to join; to enroll / to contain; to hold; to accommodate / to have (an income of) / to get; to receive; to score"
+  },
+  {
+    "yomikata": "くる",
+    "word": "来る",
+    "mean": "to come (spatially or temporally); to approach; to arrive / to come back; to do ... and come back / to come to be; to become; to get; to grow; to continue / to come from; to be caused by; to derive from / to come to (i.e. \"when it comes to spinach ...\")"
+  },
+  {
+    "yomikata": "えんぴつ",
+    "word": "鉛筆",
+    "mean": "pencil"
+  },
+  {
+    "yomikata": "など",
+    "word": "等",
+    "mean": "et cetera; etc.; and the like; and so forth / or something / the likes of"
+  },
+  {
+    "yomikata": "どうぶつ",
+    "word": "動物",
+    "mean": "animal"
+  },
+  {
+    "yomikata": "わるい",
+    "word": "悪い",
+    "mean": "bad; poor; inferior / evil; sinful / unprofitable; unbeneficial / at fault; to blame; in the wrong / sorry"
+  },
+  {
+    "yomikata": "いみ",
+    "word": "意味",
+    "mean": "meaning; significance; sense"
+  },
+  {
+    "yomikata": "あつい",
+    "word": "暑い",
+    "mean": "hot; warm; sultry; heated / passionate; impassioned; burning (desire, etc.) / on everybody's mind; on the radar; du jour; interested (gaze, etc.)"
+  },
+  {
+    "yomikata": "よる",
+    "word": "夜",
+    "mean": "evening; night"
+  },
+  {
+    "yomikata": "いろ",
+    "word": "色",
+    "mean": "colour; color; hue; tint; tinge; shade / complexion; skin colour; skin color / look (on one's face); expression / appearance; air; feeling / personality; character / tone (of one's voice, etc.); tune; sound; ring / love; lust; sensuality; love affair / lover; paramour / beauty; sexiness; physical appeal / kind; type; variety"
+  },
+  {
+    "yomikata": "ちかい",
+    "word": "近い",
+    "mean": "near; close; short (distance) / close (in time); soon / close (relationship); friendly; intimate / closely related / similar; likeworthy; almost the same"
+  },
+  {
+    "yomikata": "いち",
+    "word": "一",
+    "mean": "one / best / first; foremost / beginning; start / ace (playing card) / bottom string (on a shamisen, etc.)"
+  },
+  {
+    "yomikata": "でかける",
+    "word": "出かける",
+    "mean": "to go out (e.g. on an excursion or outing); to leave; to depart; to start; to set out / to be about to leave; to be just going out"
+  },
+  {
+    "yomikata": "むいか",
+    "word": "六日",
+    "mean": "sixth day of the month / six days"
+  },
+  {
+    "yomikata": "ベッド",
+    "word": "",
+    "mean": "bed"
+  },
+  {
+    "yomikata": "アパート",
+    "word": "",
+    "mean": "apartment building; apartment block; apartment house / apartment"
+  },
+  {
+    "yomikata": "はつか",
+    "word": "二十日",
+    "mean": "twentieth day of the month / twenty days"
+  },
+  {
+    "yomikata": "ちいさい",
+    "word": "小さい",
+    "mean": "small; little; tiny / slight; below average (in degree, amount, etc.); minor; small / low (e.g. sound); soft (e.g. voice) / unimportant; petty; insignificant; trifling; trivial / young; juvenile"
+  },
+  {
+    "yomikata": "みぎ",
+    "word": "右",
+    "mean": "right; right hand side / afore-mentioned (esp. in vertical Japanese writing); foregoing; forgoing; above"
+  },
+  {
+    "yomikata": "まいあさ",
+    "word": "毎朝",
+    "mean": "every morning"
+  },
+  {
+    "yomikata": "ニュース",
+    "word": "",
+    "mean": "news"
+  },
+  {
+    "yomikata": "いろいろ",
+    "word": "色々",
+    "mean": "various; all sorts of; variety of / various colors (colours)"
+  },
+  {
+    "yomikata": "そば",
+    "word": "側",
+    "mean": "near; close; beside; vicinity; proximity; besides; while / third person"
+  },
+  {
+    "yomikata": "たのしい",
+    "word": "楽しい",
+    "mean": "enjoyable; fun; pleasant; happy; delightful"
+  },
+  {
+    "yomikata": "ふく",
+    "word": "吹く",
+    "mean": "to blow (e.g. wind); to play a wind instrument / to whistle / to laugh; to burst into laughter / to smelt; to mint / to brag; to talk big"
+  },
+  {
+    "yomikata": "おくさん",
+    "word": "奥さん",
+    "mean": "wife; your wife; his wife; married lady; madam"
+  },
+  {
+    "yomikata": "しごと",
+    "word": "仕事",
+    "mean": "work; job; business; occupation; employment; vocation; task / work"
+  },
+  {
+    "yomikata": "いく",
+    "word": "行く",
+    "mean": "to go; to move (in a direction or towards a specific location); to head (towards); to be transported (towards); to reach / to proceed; to take place / to pass through; to come and go / to walk / to die; to pass away / to do (in a specific way) / to stream; to flow / to continue / to have an orgasm; to come; to cum / to trip; to get high; to have a drug-induced hallucination"
+  },
+  {
+    "yomikata": "すこし",
+    "word": "少し",
+    "mean": "small quantity; little; few; something / little while / short distance"
+  },
+  {
+    "yomikata": "もんだい",
+    "word": "問題",
+    "mean": "question (e.g. on a test); problem / problem (e.g. societal, political); question; issue; subject (e.g. of research); case; matter / question (i.e. doubt) / public discussion; controversy / trouble; problem; inconvenience; difficulty"
+  },
+  {
+    "yomikata": "どなた",
+    "word": "何方",
+    "mean": "who?"
+  },
+  {
+    "yomikata": "スポーツ",
+    "word": "",
+    "mean": "sport; sports"
+  },
+  {
+    "yomikata": "あかい",
+    "word": "赤い",
+    "mean": "red; crimson; scarlet; vermilion; vermillion / Red; communist / beautiful"
+  },
+  {
+    "yomikata": "かす",
+    "word": "貸す",
+    "mean": "to lend; to loan / to rent out; to hire out"
+  },
+  {
+    "yomikata": "でんしゃ",
+    "word": "電車",
+    "mean": "train; electric train"
+  },
+  {
+    "yomikata": "グラム",
+    "word": "瓦",
+    "mean": "gram; gramme"
+  },
+  {
+    "yomikata": "さくぶん",
+    "word": "作文",
+    "mean": "writing (an essay, prose, etc.); composition / formal writing with little real meaning"
+  },
+  {
+    "yomikata": "みどり",
+    "word": "緑",
+    "mean": "green / greenery (esp. fresh verdure)"
+  },
+  {
+    "yomikata": "あめ",
+    "word": "雨",
+    "mean": "rain"
+  },
+  {
+    "yomikata": "まえ",
+    "word": "前",
+    "mean": "ago; before (some event); previously; (minutes) to (the hour) / in front (of); before (e.g. the house) / head (of a line); front (e.g. of a bus); fore part / in the presence of / helping; portion / privates; private parts"
+  },
+  {
+    "yomikata": "ゆうびんきょく",
+    "word": "郵便局",
+    "mean": "post office"
+  },
+  {
+    "yomikata": "ストーブ",
+    "word": "",
+    "mean": "(room) heater; stove"
+  },
+  {
+    "yomikata": "みせる",
+    "word": "見せる",
+    "mean": "to show; to display"
+  },
+  {
+    "yomikata": "ごはん",
+    "word": "ご飯",
+    "mean": "cooked rice / meal"
+  },
+  {
+    "yomikata": "ふろ",
+    "word": "風呂",
+    "mean": "bath; bathtub / bathroom; bathhouse / room for drying lacquerware / base (wooden joint connecting the blade of a hoe, spade, etc., to the handle)"
+  },
+  {
+    "yomikata": "フォーク",
+    "word": "",
+    "mean": "fork / folk; folk song / hawk"
+  },
+  {
+    "yomikata": "はし",
+    "word": "箸",
+    "mean": "chopsticks"
+  },
+  {
+    "yomikata": "うまれる",
+    "word": "生まれる",
+    "mean": "to be born"
+  },
+  {
+    "yomikata": "せんたく",
+    "word": "洗濯",
+    "mean": "washing; laundry / relaxing; taking a break"
+  },
+  {
+    "yomikata": "おばさん",
+    "word": "伯母さん",
+    "mean": "aunt"
+  },
+  {
+    "yomikata": "へた",
+    "word": "下手",
+    "mean": "unskillful; poor; awkward / imprudent; untactful"
+  },
+  {
+    "yomikata": "こども",
+    "word": "子供",
+    "mean": "child"
+  },
+  {
+    "yomikata": "こうちゃ",
+    "word": "紅茶",
+    "mean": "black tea"
+  },
+  {
+    "yomikata": "おととい",
+    "word": "一昨日",
+    "mean": "day before yesterday"
+  },
+  {
+    "yomikata": "さん",
+    "word": "三",
+    "mean": "three / tri-"
+  },
+  {
+    "yomikata": "やすい",
+    "word": "安い",
+    "mean": "cheap; inexpensive / calm; peaceful; quiet"
+  },
+  {
+    "yomikata": "ご",
+    "word": "五",
+    "mean": "five"
+  },
+  {
+    "yomikata": "て",
+    "word": "手",
+    "mean": "hand; arm / forepaw; foreleg / handle / hand; worker; help / trouble; care; effort / means; way; trick; move; technique; workmanship / hand; handwriting / kind; type; sort / one's hands; one's possession / ability to cope / hand (of cards) / direction / move (in go, shogi, etc.)"
+  },
+  {
+    "yomikata": "まっすぐ",
+    "word": "真っ直ぐ",
+    "mean": "straight (ahead); direct; upright; erect / straightforward; honest; frank"
+  },
+  {
+    "yomikata": "クラス",
+    "word": "",
+    "mean": "class"
+  },
+  {
+    "yomikata": "あたま",
+    "word": "頭",
+    "mean": "head / hair (on one's head) / mind; brains; intellect / leader; chief; boss; captain / top; tip / beginning; start / head; person / top structural component of a kanji / pair"
+  },
+  {
+    "yomikata": "あびる",
+    "word": "浴びる",
+    "mean": "to dash over oneself (e.g. water); to take (e.g. shower); to bask in (e.g. the sun); to bathe in; to be flooded with (e.g. light); to be covered in / to suffer (e.g. an attack); to draw (e.g. criticism, attention, praise); to have heaped upon; to be showered with"
+  },
+  {
+    "yomikata": "かわ",
+    "word": "川",
+    "mean": "river; stream / River; the ... river"
+  },
+  {
+    "yomikata": "でる",
+    "word": "出る",
+    "mean": "to leave; to exit; to go out; to come out; to get out / to leave (on a journey); to depart; to start out; to set out / to move forward / to come to; to get to; to lead to; to reach / to appear; to come out; to emerge; to surface; to come forth; to turn up; to be found; to be detected; to be discovered; to be exposed; to show; to be exhibited; to be on display / to appear (in print); to be published; to be announced; to be issued; to be listed; to come out / to attend; to participate; to take part; to enter (an event); to play in; to perform / to be stated; to be expressed; to come up; to be brought up; to be raised / to sell / to exceed; to go over / to stick out; to protrude / to break out; to occur; to start; to originate / to be produced / to come from; to be derived from / to be given; to get; to receive; to be offered; to be provided; to be presented; to be submitted; to be handed in; to be turned in; to be paid / to answer (phone, door, etc.); to get / to assume (an attitude); to act; to behave / to pick up (speed, etc.); to gain / to flow (e.g. tears); to run; to bleed / to graduate"
+  },
+  {
+    "yomikata": "ちょうど",
+    "word": "丁度",
+    "mean": "exactly; precisely; just; right / as if; as though; quite"
+  },
+  {
+    "yomikata": "より",
+    "word": "",
+    "mean": "than / from; out of; since; at; on / except; but; other than / more"
+  },
+  {
+    "yomikata": "ひくい",
+    "word": "低い",
+    "mean": "low (rank, degree, value, content, quality, etc.) / low (position); close to the ground / short (height) / deep (voice); in a low key; low (volume)"
+  },
+  {
+    "yomikata": "きいろ",
+    "word": "黄色",
+    "mean": "yellow; amber"
+  },
+  {
+    "yomikata": "おおぜい",
+    "word": "大勢",
+    "mean": "crowd of people; great number of people / in great numbers"
+  },
+  {
+    "yomikata": "はい",
+    "word": "",
+    "mean": "yes; that is correct / understood; I see; OK; okay / present; here / pardon?; what's that?; come again? / now; here; here you go / giddy-up; giddap"
+  },
+  {
+    "yomikata": "やる",
+    "word": "遣る",
+    "mean": "to do; to undertake; to perform; to play (a game); to study / to send; to dispatch; to despatch / to put; to move; to turn (one's head, glance, etc.) / to give (esp. to someone of equal or lower status); to let have; to present; to bestow; to confer / to make (a vehicle) go faster / to run (a business); to keep; to be engaged in; to practice (law, medicine, etc.); to practise / to have (food, drink, etc.); to eat; to drink; to smoke / to hold (a performance); to perform; to show / to ease (one's mind) / to harm; to injure; to kill / to have sex with / to live; to get by; to get along / to do ... completely / to do ... broadly; to do ... to a great distance / to do ... for (someone of equal or lower status); to do ... to (sometimes with negative nuance) / to make active efforts to ..."
+  },
+  {
+    "yomikata": "ネクタイ",
+    "word": "",
+    "mean": "tie; necktie"
+  },
+  {
+    "yomikata": "くるま",
+    "word": "車",
+    "mean": "car; automobile; vehicle / wheel"
+  },
+  {
+    "yomikata": "よっつ",
+    "word": "四つ",
+    "mean": "four / four years of age / ten o'clock (old time system) / cross grips"
+  },
+  {
+    "yomikata": "せんしゅう",
+    "word": "先週",
+    "mean": "last week; the week before"
+  },
+  {
+    "yomikata": "あなた",
+    "word": "貴方",
+    "mean": "you (referring to someone of equal or lower status) / dear (what a wife calls a husband)"
+  },
+  {
+    "yomikata": "ここのか",
+    "word": "九日",
+    "mean": "the ninth day of the month / nine days"
+  },
+  {
+    "yomikata": "スリッパ",
+    "word": "",
+    "mean": "slipper; slippers"
+  },
+  {
+    "yomikata": "うえ",
+    "word": "上",
+    "mean": "above; up; over; elder (e.g. daughter) / top; summit / surface; on / before; previous / superiority; one's superior (i.e. one's elder) / on top of that; besides; what's more / upon (further inspection, etc.); based on (and occurring after) / matters concerning...; as concerns ... / since (i.e. \"for that reason) / suffix indicating higher social standing / place of one's superior (i.e. the throne) / emperor; sovereign; shogun; daimyo / noblewoman (esp. the wife of a nobleman)\""
+  },
+  {
+    "yomikata": "だす",
+    "word": "出す",
+    "mean": "to take out; to get out / to put out; to reveal; to show / to submit (e.g. thesis); to turn in / to publish; to make public / to send (e.g. letter) / to produce (a sound); to start (fire) / to serve (food) / to begin ...; to start to ...; to burst into ..."
+  },
+  {
+    "yomikata": "きんようび",
+    "word": "金曜日",
+    "mean": "Friday"
+  },
+  {
+    "yomikata": "おもしろい",
+    "word": "面白い",
+    "mean": "interesting; fascinating; intriguing; enthralling / amusing; funny; comical / pleasant; enjoyable; agreeable; fun"
+  },
+  {
+    "yomikata": "たまご",
+    "word": "卵",
+    "mean": "eggs; egg; spawn; roe / hen egg / (an expert) in the making / beginning; origin; infancy"
+  },
+  {
+    "yomikata": "バター",
+    "word": "",
+    "mean": "butter"
+  },
+  {
+    "yomikata": "その",
+    "word": "其の",
+    "mean": "that (something or someone distant from the speaker, close to the listener; actions of the listener, or ideas expressed or understood by the listener); the / um...; er...; uh..."
+  },
+  {
+    "yomikata": "わかる",
+    "word": "分かる",
+    "mean": "to understand; to comprehend; to grasp; to see; to get; to follow / to become clear; to be known; to be discovered; to be realized; to be realised; to be found out"
+  },
+  {
+    "yomikata": "あさ",
+    "word": "朝",
+    "mean": "morning"
+  },
+  {
+    "yomikata": "え",
+    "word": "絵",
+    "mean": "picture; drawing; painting; sketch"
+  },
+  {
+    "yomikata": "ここのつ",
+    "word": "九つ",
+    "mean": "nine"
+  },
+  {
+    "yomikata": "ふとい",
+    "word": "太い",
+    "mean": "fat; thick / deep (of a voice); thick; sonorous / daring; shameless; brazen; audacious"
+  },
+  {
+    "yomikata": "どちら",
+    "word": "何方",
+    "mean": "which way; which direction; where / which one (esp. of two alternatives) / who"
+  },
+  {
+    "yomikata": "こうえん",
+    "word": "公園",
+    "mean": "(public) park"
+  },
+  {
+    "yomikata": "くらい",
+    "word": "暗い",
+    "mean": "dark; gloomy; murky / depressed; dispirited; down in the dumps; dark (mood) / dark (in colour); dull / ill-boding; dark (e.g. past); suspicious / unlikely (to succeed); hopeless; unpromising / unfamiliar (with); ignorant (of)"
+  },
+  {
+    "yomikata": "ようか",
+    "word": "八日",
+    "mean": "the eighth day of the month / eight days"
+  },
+  {
+    "yomikata": "よむ",
+    "word": "読む",
+    "mean": "to read / to count / to guess; to predict; to read (someone's thoughts); to see (e.g. into someone's heart); to divine"
+  },
+  {
+    "yomikata": "がいこくじん",
+    "word": "外国人",
+    "mean": "foreigner; foreign citizen; foreign national; alien; non-Japanese"
+  },
+  {
+    "yomikata": "しち",
+    "word": "七",
+    "mean": "seven / hepta-"
+  },
+  {
+    "yomikata": "あるく",
+    "word": "歩く",
+    "mean": "to walk"
+  },
+  {
+    "yomikata": "あか",
+    "word": "赤",
+    "mean": "red; crimson; scarlet / red-containing colour (e.g. brown, pink, orange) / Red (i.e. communist) / red light (traffic) / red ink (i.e. in finance or proof-reading); (in) the red / complete; total; perfect; obvious / copper"
+  },
+  {
+    "yomikata": "あに",
+    "word": "兄",
+    "mean": "elder brother; older brother"
+  },
+  {
+    "yomikata": "へや",
+    "word": "部屋",
+    "mean": "room; chamber / apartment; flat; pad / stable"
+  },
+  {
+    "yomikata": "は",
+    "word": "歯",
+    "mean": "tooth"
+  },
+  {
+    "yomikata": "おねえさん",
+    "word": "お姉さん",
+    "mean": "elder sister / young lady / miss / ma'am / older girl"
+  },
+  {
+    "yomikata": "いいえ",
+    "word": "否",
+    "mean": "no; nay / well; er; why / you're welcome; not at all; don't mention it"
+  },
+  {
+    "yomikata": "でんき",
+    "word": "電気",
+    "mean": "electricity / (electric) light"
+  },
+  {
+    "yomikata": "だいじょうぶ",
+    "word": "大丈夫",
+    "mean": "safe; secure; sound; problem-free; without fear; all right; alright; OK; okay / certainly; surely; undoubtedly / no thanks; I'm good; that's alright / great man; fine figure of a man"
+  },
+  {
+    "yomikata": "ぬぐ",
+    "word": "脱ぐ",
+    "mean": "to take off (clothes, shoes, etc.); to undress"
+  },
+  {
+    "yomikata": "のる",
+    "word": "乗る",
+    "mean": "to get on (train, plane, bus, ship, etc.); to get in; to board; to take; to embark / to get on (e.g. a footstool); to step on; to jump on; to sit on; to mount / to reach; to go over; to pass / to follow; to stay (on track); to go with (the times, etc.) / to take part; to participate; to join / to get into the swing (and sing, dance, etc.) / to be deceived; to be taken in / to be carried; to be spread; to be scattered / to stick; to attach; to take; to go on"
+  },
+  {
+    "yomikata": "ボールペン",
+    "word": "",
+    "mean": "ball-point pen"
+  },
+  {
+    "yomikata": "うしろ",
+    "word": "後ろ",
+    "mean": "back; behind; rear"
+  },
+  {
+    "yomikata": "こんな",
+    "word": "",
+    "mean": "such (about something or someone close to the speaker (including the speaker), or about ideas expressed by the speaker); like this"
+  },
+  {
+    "yomikata": "あちら",
+    "word": "彼方",
+    "mean": "that way (direction distant from both speaker and listener); over there; yonder / that one (something physically distant from both speaker and listener, or something not visible but known by both speaker and listener); that / that person (someone physically distant from both speaker and listener, or someone not present but known by both speaker and listener) / there (place distant from both speaker and listener); over there; foreign country (esp. a Western nation)"
+  },
+  {
+    "yomikata": "むずかしい",
+    "word": "難しい",
+    "mean": "difficult; hard; troublesome; complicated; serious (disease, problem, etc.) / fussy; particular; fastidious; hard to please; displeased / gloomy; glum; sullen; serious (look) / dirty; unclean; filthy; detestable / unpleasant; uncomfortable; creepy; spooky"
+  },
+  {
+    "yomikata": "つかれる",
+    "word": "疲れる",
+    "mean": "to get tired; to tire / to be worn out (e.g. of well used objects) / to starve"
+  },
+  {
+    "yomikata": "かた",
+    "word": "方",
+    "mean": "direction; way / person; lady; gentleman / method of; manner of; way of / care of ... / person in charge of ... / side (e.g. \"on my mother's side\")"
+  },
+  {
+    "yomikata": "ならう",
+    "word": "習う",
+    "mean": "to take lessons in; to be taught; to learn (from a teacher); to study (under a teacher); to get training in"
+  },
+  {
+    "yomikata": "きゅう",
+    "word": "九",
+    "mean": "nine"
+  },
+  {
+    "yomikata": "みち",
+    "word": "道",
+    "mean": "road; path; street; lane; passage / route; way / distance; journey / road (e.g. to victory); course / way (of living, proper conduct, etc.); moral principles / teachings (esp. Confucian or Buddhist); dogma / field (e.g. of medicine); subject; speciality / means; way; method"
+  },
+  {
+    "yomikata": "てがみ",
+    "word": "手紙",
+    "mean": "letter"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "yomikata": "たいぼく",
+    "word": "大木",
+    "mean": "large tree"
+  },
+  {
+    "yomikata": "おんしつ",
+    "word": "温室",
+    "mean": "greenhouse; hothouse; conservatory; glasshouse"
+  },
+  {
+    "yomikata": "レンズ",
+    "word": "",
+    "mean": "lens"
+  },
+  {
+    "yomikata": "さしつかえ",
+    "word": "差し支え",
+    "mean": "hindrance; impediment"
+  },
+  {
+    "yomikata": "すいてい",
+    "word": "推定",
+    "mean": "presumption; assumption / estimation"
+  },
+  {
+    "yomikata": "ギャング",
+    "word": "",
+    "mean": "gang / gangster"
+  },
+  {
+    "yomikata": "ちょうじょ",
+    "word": "長女",
+    "mean": "eldest daughter; first-born daughter"
+  },
+  {
+    "yomikata": "いじわる",
+    "word": "意地悪",
+    "mean": "malicious; ill-tempered; unkind"
+  },
+  {
+    "yomikata": "えいわ",
+    "word": "英和",
+    "mean": "English-Japanese (e.g. dictionary)"
+  },
+  {
+    "yomikata": "でむかえる",
+    "word": "出迎える",
+    "mean": "to meet; to greet"
+  },
+  {
+    "yomikata": "こうひょう",
+    "word": "公表",
+    "mean": "official announcement; proclamation"
+  },
+  {
+    "yomikata": "ロッカー",
+    "word": "",
+    "mean": "locker / rocker"
+  },
+  {
+    "yomikata": "ワンピース",
+    "word": "",
+    "mean": "dress"
+  },
+  {
+    "yomikata": "じっしゅう",
+    "word": "実習",
+    "mean": "practice (in the field); training (esp. practical and hands-on); practical exercise; drill"
+  },
+  {
+    "yomikata": "さめる",
+    "word": "冷める",
+    "mean": "to cool down; to get cold / to cool off (excitement, temper, etc.); to subside; to dampen; to fade; to wane / to be cold (eyes, expression, etc.); to be composed"
+  },
+  {
+    "yomikata": "あぶら",
+    "word": "脂",
+    "mean": "fat; tallow; lard; grease"
+  },
+  {
+    "yomikata": "ごうりゅう",
+    "word": "合流",
+    "mean": "confluence (of rivers); merge (of traffic); conflux; junction; joining / union (e.g. of forces); linking up; merging; coming together"
+  },
+  {
+    "yomikata": "かんでんち",
+    "word": "乾電池",
+    "mean": "dry cell; battery"
+  },
+  {
+    "yomikata": "いとこ",
+    "word": "従姉妹",
+    "mean": "cousin (female)"
+  },
+  {
+    "yomikata": "へいかい",
+    "word": "閉会",
+    "mean": "closure (of a ceremony, event, meeting, etc.)"
+  },
+  {
+    "yomikata": "あつかましい",
+    "word": "厚かましい",
+    "mean": "impudent; shameless; brazen"
+  },
+  {
+    "yomikata": "とくてい",
+    "word": "特定",
+    "mean": "specific; particular; designated; special / specifying; designating; identifying; pinpointing"
+  },
+  {
+    "yomikata": "つたわる",
+    "word": "伝わる",
+    "mean": "to be handed down; to be introduced; to be transmitted; to be circulated; to go along; to walk along"
+  },
+  {
+    "yomikata": "てちょう",
+    "word": "手帳",
+    "mean": "notebook; memo pad; (pocket) diary / certificate / identification card"
+  },
+  {
+    "yomikata": "すくなくとも",
+    "word": "少なくとも",
+    "mean": "at least"
+  },
+  {
+    "yomikata": "こくせき",
+    "word": "国籍",
+    "mean": "nationality; citizenship / nationality (ship, airplane, etc.); registration; flag"
+  },
+  {
+    "yomikata": "オーバコート",
+    "word": "",
+    "mean": "overcoat"
+  },
+  {
+    "yomikata": "めだつ",
+    "word": "目立つ",
+    "mean": "to be conspicuous; to stand out"
+  },
+  {
+    "yomikata": "あみもの",
+    "word": "編み物",
+    "mean": "knitting; knitted material; crochet"
+  },
+  {
+    "yomikata": "こしらえる",
+    "word": "拵える",
+    "mean": "to make; to manufacture"
+  },
+  {
+    "yomikata": "てごろ",
+    "word": "手ごろ",
+    "mean": "moderate; handy; convenient; reasonable"
+  },
+  {
+    "yomikata": "クーラー",
+    "word": "",
+    "mean": "cooler; air conditioner"
+  },
+  {
+    "yomikata": "かんたい",
+    "word": "寒帯",
+    "mean": "frigid zone"
+  },
+  {
+    "yomikata": "しょうすう",
+    "word": "小数",
+    "mean": "fraction (part of); decimal fraction"
+  },
+  {
+    "yomikata": "いけばな",
+    "word": "生け花",
+    "mean": "ikebana; Japanese art of flower arrangement / fresh flower; natural flower"
+  },
+  {
+    "yomikata": "めうえ",
+    "word": "目上",
+    "mean": "superior; superiors; senior"
+  },
+  {
+    "yomikata": "そうさく",
+    "word": "創作",
+    "mean": "creativity; creation; original work (novel, movie, etc.)"
+  },
+  {
+    "yomikata": "のうさんぶつ",
+    "word": "農産物",
+    "mean": "agricultural produce"
+  },
+  {
+    "yomikata": "つめ",
+    "word": "爪",
+    "mean": "nail (e.g. fingernail, toenail); claw; talon; hoof / plectrum; pick / hook; clasp"
+  },
+  {
+    "yomikata": "ふきん",
+    "word": "付近",
+    "mean": "neighbourhood; neighborhood; vicinity; environs / approaching"
+  },
+  {
+    "yomikata": "いこう",
+    "word": "以降",
+    "mean": "on and after; as from; hereafter; thereafter; since"
+  },
+  {
+    "yomikata": "ぼうや",
+    "word": "坊や",
+    "mean": "boy"
+  },
+  {
+    "yomikata": "じそく",
+    "word": "時速",
+    "mean": "speed (per hour)"
+  },
+  {
+    "yomikata": "とりいれる",
+    "word": "取り入れる",
+    "mean": "to harvest; to reap / to take in; to gather in / to adopt (e.g. idea); to accept (e.g. advice); to introduce; to borrow (e.g. word)"
+  },
+  {
+    "yomikata": "あわてる",
+    "word": "慌てる",
+    "mean": "to become confused (disconcerted, disorganized, disorganised); to be flustered; to panic / to be in a hurry; to rush"
+  },
+  {
+    "yomikata": "ことばづかい",
+    "word": "言葉遣い",
+    "mean": "speech; expression; wording; language"
+  },
+  {
+    "yomikata": "じしゃく",
+    "word": "磁石",
+    "mean": "magnet / compass"
+  },
+  {
+    "yomikata": "きぐ",
+    "word": "器具",
+    "mean": "utensil; apparatus; implement; device; gadget"
+  },
+  {
+    "yomikata": "ふんすい",
+    "word": "噴水",
+    "mean": "water fountain"
+  },
+  {
+    "yomikata": "しょきゅう",
+    "word": "初級",
+    "mean": "elementary level; beginner level"
+  },
+  {
+    "yomikata": "スライド",
+    "word": "",
+    "mean": "slide / change (in value or situation); proportional change / to slide; to slip / to change (in value, e.g. with a sliding scale); to change (in situation)"
+  },
+  {
+    "yomikata": "つうきん",
+    "word": "通勤",
+    "mean": "commuting to work"
+  },
+  {
+    "yomikata": "ランニング",
+    "word": "",
+    "mean": "running / tank top"
+  },
+  {
+    "yomikata": "ネックレス",
+    "word": "",
+    "mean": "necklace"
+  },
+  {
+    "yomikata": "しょうぶ",
+    "word": "勝負",
+    "mean": "victory or defeat / match; contest; game; bout"
+  },
+  {
+    "yomikata": "ちょくつう",
+    "word": "直通",
+    "mean": "direct line; direct communication; connecting directly; through service"
+  },
+  {
+    "yomikata": "むす",
+    "word": "蒸す",
+    "mean": "to steam (food, towel, etc.) / to be hot and humid; to be sultry"
+  },
+  {
+    "yomikata": "かい",
+    "word": "貝",
+    "mean": "shellfish / seashell; shell"
+  },
+  {
+    "yomikata": "なくす",
+    "word": "亡くす",
+    "mean": "to lose (through death) (e.g. wife, child)"
+  },
+  {
+    "yomikata": "かいとう",
+    "word": "解答",
+    "mean": "answer; solution"
+  },
+  {
+    "yomikata": "どうさ",
+    "word": "動作",
+    "mean": "action; movements; motions; bearing; behaviour; behavior; execution; actuation; operation; manners"
+  },
+  {
+    "yomikata": "なす",
+    "word": "為す",
+    "mean": "to build up; to establish / to form; to become (a state) / to accomplish; to achieve; to succeed in / to change into / to do; to perform / to intend to; to attempt; to try"
+  },
+  {
+    "yomikata": "こがす",
+    "word": "焦がす",
+    "mean": "to burn; to scorch; to singe; to char"
+  },
+  {
+    "yomikata": "おやつ",
+    "word": "お八つ",
+    "mean": "between-meal snack / mid-afternoon (around 3 o'clock) snack; afternoon refreshment; afternoon tea"
+  },
+  {
+    "yomikata": "スピーカー",
+    "word": "",
+    "mean": "speaker"
+  },
+  {
+    "yomikata": "だんてい",
+    "word": "断定",
+    "mean": "conclusion; decision; judgement; declaration / affirmative"
+  },
+  {
+    "yomikata": "じょきょうじゅ",
+    "word": "助教授",
+    "mean": "assistant professor; associate professor"
+  },
+  {
+    "yomikata": "コック",
+    "word": "",
+    "mean": "cook; chef / tap; spigot; faucet; cock / cock (male fowl) / cock (penis)"
+  },
+  {
+    "yomikata": "こちらこそ",
+    "word": "",
+    "mean": "it is I who should say so"
+  },
+  {
+    "yomikata": "ちたい",
+    "word": "地帯",
+    "mean": "area; zone; belt (of land)"
+  },
+  {
+    "yomikata": "かくじゅう",
+    "word": "拡充",
+    "mean": "expansion"
+  },
+  {
+    "yomikata": "ちる",
+    "word": "散る",
+    "mean": "to fall (e.g. blossoms, leaves) / to scatter; to be dispersed / to disappear; to dissolve; to break up / to spread; to run; to blur / to die a noble death"
+  },
+  {
+    "yomikata": "めちゃくちゃ",
+    "word": "目茶苦茶",
+    "mean": "absurd; unreasonable; nonsensical; preposterous; incoherent / extreme; senseless; reckless; wanton / disorder; confusion; mess; wreck"
+  },
+  {
+    "yomikata": "かれる",
+    "word": "枯れる",
+    "mean": "to wither (of a plant); to be blasted; to die / to mature (of one's personality, abilities, etc.)"
+  },
+  {
+    "yomikata": "いしょくじゅう",
+    "word": "衣食住",
+    "mean": "necessities of life (food, clothing & shelter)"
+  },
+  {
+    "yomikata": "うらなう",
+    "word": "占う",
+    "mean": "to tell someone's fortune; to forecast; to predict; to divine"
+  },
+  {
+    "yomikata": "わん",
+    "word": "碗",
+    "mean": "bowl (ceramic, porcelain)"
+  },
+  {
+    "yomikata": "ダイヤモンド",
+    "word": "",
+    "mean": "diamond (mineral, gemstone) / diamond; infield / diamond (card suit)"
+  },
+  {
+    "yomikata": "こしかけ",
+    "word": "腰掛け",
+    "mean": "seat; bench"
+  },
+  {
+    "yomikata": "りゅういき",
+    "word": "流域",
+    "mean": "(river) basin"
+  },
+  {
+    "yomikata": "アイデア",
+    "word": "",
+    "mean": "idea"
+  },
+  {
+    "yomikata": "ようりょう",
+    "word": "要領",
+    "mean": "point; gist; essentials; tenets; outline / knack; trick; the ropes"
+  },
+  {
+    "yomikata": "しょうみ",
+    "word": "正味",
+    "mean": "net weight / useful part; actual content / real; effective; full"
+  },
+  {
+    "yomikata": "かいせつ",
+    "word": "解説",
+    "mean": "explanation; commentary; exposition; elucidation"
+  },
+  {
+    "yomikata": "そうしき",
+    "word": "葬式",
+    "mean": "funeral"
+  },
+  {
+    "yomikata": "どうかく",
+    "word": "同格",
+    "mean": "the same rank; equality / apposition"
+  },
+  {
+    "yomikata": "アンテナ",
+    "word": "",
+    "mean": "antenna / thing or method used to collect information or opinions"
+  },
+  {
+    "yomikata": "ぶんぼうぐ",
+    "word": "文房具",
+    "mean": "stationery"
+  },
+  {
+    "yomikata": "とうげ",
+    "word": "峠",
+    "mean": "(mountain) pass; ridge; peak / peak (e.g. of summer); worst (e.g. of an illness); crisis; critical point; most difficult part"
+  },
+  {
+    "yomikata": "こくおう",
+    "word": "国王",
+    "mean": "king"
+  },
+  {
+    "yomikata": "かく",
+    "word": "掻く",
+    "mean": "to scratch / to perspire / to shovel; to paddle"
+  },
+  {
+    "yomikata": "そろばん",
+    "word": "算盤",
+    "mean": "abacus"
+  },
+  {
+    "yomikata": "たたむ",
+    "word": "畳む",
+    "mean": "to fold (clothes, umbrella) / to close (a shop, business) / to vacate"
+  },
+  {
+    "yomikata": "せんろ",
+    "word": "線路",
+    "mean": "railway track; railway line; railroad; railway; track; line"
+  },
+  {
+    "yomikata": "すもう",
+    "word": "相撲",
+    "mean": "sumo wrestling / wrestler; rikishi"
+  },
+  {
+    "yomikata": "あおじろい",
+    "word": "青白い",
+    "mean": "pale; pallid / bluish-white"
+  },
+  {
+    "yomikata": "じさん",
+    "word": "持参",
+    "mean": "bringing; taking; carrying"
+  },
+  {
+    "yomikata": "かしや",
+    "word": "貸家",
+    "mean": "house for rent"
+  },
+  {
+    "yomikata": "もよおし",
+    "word": "催し",
+    "mean": "event; festivities; function; social gathering; auspices; opening; holding (a meeting)"
+  },
+  {
+    "yomikata": "つきあたり",
+    "word": "突き当たり",
+    "mean": "end (of a street, hallway, etc.)"
+  },
+  {
+    "yomikata": "もうしわけない",
+    "word": "申し訳ない",
+    "mean": "I'm sorry; (it's) inexcusable; I feel regretful; I feel guilty / thank you very much (for help, etc.)"
+  },
+  {
+    "yomikata": "はきはき",
+    "word": "",
+    "mean": "briskly; smartly; promptly; clearly; lucidly"
+  },
+  {
+    "yomikata": "せいぶん",
+    "word": "成分",
+    "mean": "ingredient; component; composition"
+  },
+  {
+    "yomikata": "はっそう",
+    "word": "発想",
+    "mean": "idea; conception; way of thinking / expression"
+  },
+  {
+    "yomikata": "じつりょく",
+    "word": "実力",
+    "mean": "(real) ability; true strength; merit; efficiency; competency / arms; force"
+  },
+  {
+    "yomikata": "いつ",
+    "word": "佚",
+    "mean": "being comfortable; relaxing"
+  },
+  {
+    "yomikata": "なんべい",
+    "word": "南米",
+    "mean": "South America"
+  },
+  {
+    "yomikata": "かけざん",
+    "word": "掛け算",
+    "mean": "multiplication"
+  },
+  {
+    "yomikata": "モーター",
+    "word": "",
+    "mean": "motor"
+  },
+  {
+    "yomikata": "きばん",
+    "word": "基盤",
+    "mean": "foundation; basis; base; footing; infrastructure / bedrock / substrate (circuit board)"
+  },
+  {
+    "yomikata": "よくばり",
+    "word": "欲張り",
+    "mean": "greed; avarice; covetousness; greedy person"
+  },
+  {
+    "yomikata": "ちょぞう",
+    "word": "貯蔵",
+    "mean": "storage; preservation"
+  },
+  {
+    "yomikata": "ちょうこく",
+    "word": "彫刻",
+    "mean": "carving; engraving; sculpture"
+  },
+  {
+    "yomikata": "ダブル",
+    "word": "",
+    "mean": "double / double bed; hotel room with a double bed / double-breasted / double-cuffed / double width (of cloth; usu. 1.42 meters) / doubles (e.g. in tennis) / biracial person (esp. half-Japanese); person of mixed parentage"
+  },
+  {
+    "yomikata": "でんりゅう",
+    "word": "電流",
+    "mean": "electric current"
+  },
+  {
+    "yomikata": "のうど",
+    "word": "濃度",
+    "mean": "concentration; thickness; density / cardinality"
+  },
+  {
+    "yomikata": "かんちがい",
+    "word": "勘違い",
+    "mean": "misunderstanding; mistaken idea; wrong guess"
+  },
+  {
+    "yomikata": "あたたまる",
+    "word": "温まる",
+    "mean": "to warm oneself; to sun oneself; to warm up; to get warm"
+  },
+  {
+    "yomikata": "すいへいせん",
+    "word": "水平線",
+    "mean": "horizon (related to sea or lakes)"
+  },
+  {
+    "yomikata": "うりきれ",
+    "word": "売り切れ",
+    "mean": "sold-out"
+  }
+]
