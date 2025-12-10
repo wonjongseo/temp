@@ -2,102 +2,102 @@
   {
     "yomikata": "かく",
     "word": "核",
-    "mean": "pit (of a fruit); stone / core / nucleus; nuclear / nuclear weaponry / kernel"
+    "mean": "core; nucleus"
   },
   {
     "yomikata": "とりかえ",
     "word": "取り替え",
-    "mean": "swap; exchange"
+    "mean": "exchange; replacement"
   },
   {
     "yomikata": "そんぞく",
     "word": "存続",
-    "mean": "duration; continuance"
+    "mean": "continuation"
   },
   {
     "yomikata": "つぐ",
     "word": "接ぐ",
-    "mean": "to join; to piece together; to set (bones) / to graft (onto a tree)"
+    "mean": "to join; to graft"
   },
   {
     "yomikata": "レバー",
     "word": "",
-    "mean": "lever; joystick / liver"
+    "mean": "lever; joystick"
   },
   {
     "yomikata": "じゅく",
     "word": "塾",
-    "mean": "coaching school; cramming school; juku"
+    "mean": "cram school"
   },
   {
     "yomikata": "と",
     "word": "",
-    "mean": "if; when / and / with / particle used for quoting (with speech, thoughts, etc.) / promoted pawn / ?"
+    "mean": "and; with; quotation particle"
   },
   {
     "yomikata": "にげだす",
     "word": "逃げ出す",
-    "mean": "to run away; to flee; to make off; to take to one's heels; to escape / to start to run away"
+    "mean": "to run away; escape"
   },
   {
     "yomikata": "せかす",
     "word": "急かす",
-    "mean": "to hurry (up); to urge on; to press; to rush"
+    "mean": "to hurry; to urge"
   },
   {
     "yomikata": "じったい",
     "word": "実態",
-    "mean": "true state; actual condition; reality"
+    "mean": "real state; reality"
   },
   {
     "yomikata": "ほうずる",
     "word": "報ずる",
-    "mean": "to inform; to report"
+    "mean": "to report; to inform"
   },
   {
     "yomikata": "ろうりょく",
     "word": "労力",
-    "mean": "labour; labor; effort; toil; trouble"
+    "mean": "effort; labor"
   },
   {
     "yomikata": "そうじゅう",
     "word": "操縦",
-    "mean": "steering; piloting; flying; control; operation; handling / management; handling; control; manipulation"
+    "mean": "piloting; control"
   },
   {
     "yomikata": "じょし",
     "word": "助詞",
-    "mean": "particle; postpositional word in Japanese grammar that functions as an auxiliary to a main word"
+    "mean": "particle (grammar)"
   },
   {
     "yomikata": "かわるがわる",
     "word": "代わる代わる",
-    "mean": "alternately; by turns"
+    "mean": "by turns; alternately"
   },
   {
     "yomikata": "こべつ",
     "word": "個別",
-    "mean": "particular case; discrete; individual; separate"
+    "mean": "individual; separate"
   },
   {
     "yomikata": "てじゅん",
     "word": "手順",
-    "mean": "process; procedure; sequence; protocol; instruction"
+    "mean": "procedure; steps"
   },
   {
     "yomikata": "かめ",
     "word": "甕",
-    "mean": "earthenware pot"
+    "mean": "earthenware jar"
   },
   {
     "yomikata": "まんじょう",
     "word": "満場",
-    "mean": "whole house; whole audience"
+    "mean": "entire audience"
   },
   {
     "yomikata": "ごげん",
     "word": "語源",
-    "mean": "word root; word derivation; etymology"
+    "mean": "etymology; word origin"
   },
   {
     "yomikata": "しょひょう",
@@ -107,42 +107,42 @@
   {
     "yomikata": "フォーム",
     "word": "",
-    "mean": "foam / form"
+    "mean": "form"
   },
   {
     "yomikata": "かくとく",
     "word": "獲得",
-    "mean": "acquisition; possession"
+    "mean": "acquisition; gain"
   },
   {
     "yomikata": "はす",
     "word": "蓮",
-    "mean": "sacred lotus (Nelumbo nucifera); Indian lotus; lotus / rose of Sharon (Hibiscus syriacus)"
+    "mean": "lotus"
   },
   {
     "yomikata": "うちけし",
     "word": "打ち消し",
-    "mean": "negation; denial; negative"
+    "mean": "negation; denial"
   },
   {
     "yomikata": "かた",
     "word": "過多",
-    "mean": "excess; surplus; superabundance"
+    "mean": "excess"
   },
   {
     "yomikata": "おろそか",
     "word": "疎か",
-    "mean": "negligent; neglectful; careless; remiss"
+    "mean": "negligent; careless"
   },
   {
     "yomikata": "かいあく",
     "word": "改悪",
-    "mean": "deterioration; changing for the worse"
+    "mean": "change for the worse"
   },
   {
     "yomikata": "だいほん",
     "word": "台本",
-    "mean": "script; libretto; scenario"
+    "mean": "script"
   },
   {
     "yomikata": "さくぶつ",
@@ -152,7 +152,7 @@
   {
     "yomikata": "げっしゃ",
     "word": "月謝",
-    "mean": "monthly tuition fee"
+    "mean": "monthly tuition"
   },
   {
     "yomikata": "かいじゅう",
@@ -162,16 +162,16 @@
   {
     "yomikata": "し",
     "word": "死",
-    "mean": "death; decease / death penalty (by strangulation or decapitation) / (an) out"
+    "mean": "death"
   },
   {
     "yomikata": "じんそく",
     "word": "迅速",
-    "mean": "quick; fast; rapid; swift; prompt; streamlined; expedited; expeditious"
+    "mean": "quick; speedy"
   },
   {
     "yomikata": "いきさつ",
     "word": "経緯",
-    "mean": "details; particulars; whole story; sequence of events; chronology; circumstances; how it started; how things got this way / longitude and latitude / warp and weft; warp and woof"
+    "mean": "background; details"
   }
 ]

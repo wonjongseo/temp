@@ -2,67 +2,67 @@
   {
     "yomikata": "こっけい",
     "word": "滑稽",
-    "mean": "funny; comical; humorous; laughable / ridiculous; silly; absurd"
+    "mean": "funny; comical"
   },
   {
     "yomikata": "てんせん",
     "word": "点線",
-    "mean": "dotted line; perforated line"
+    "mean": "dotted line"
   },
   {
     "yomikata": "あからむ",
     "word": "赤らむ",
-    "mean": "to become red; to redden; to blush"
+    "mean": "to blush; to redden"
   },
   {
     "yomikata": "コンパス",
     "word": "",
-    "mean": "pair of compasses; compass (for drawing circles, etc.) / (mariner's) compass / legs; step; gait"
+    "mean": "compass (for drawing)"
   },
   {
     "yomikata": "ボルト",
     "word": "",
-    "mean": "volt / bolt"
+    "mean": "volt; bolt"
   },
   {
     "yomikata": "とどめる",
     "word": "留める",
-    "mean": "to stop; to stay (e.g. the night); to cease; to put an end to / to contain; to keep (in position, in place); to limit / to record (e.g. a fact); to retain"
+    "mean": "to stop; to keep"
   },
   {
     "yomikata": "ほよう",
     "word": "保養",
-    "mean": "health preservation; recuperation; recreation"
+    "mean": "rest; recuperation"
   },
   {
     "yomikata": "みはらし",
     "word": "見晴らし",
-    "mean": "view; prospect; outlook / viewing platform"
+    "mean": "view; outlook"
   },
   {
     "yomikata": "さほど",
     "word": "然程",
-    "mean": "not so; not particularly; not very; not that much"
+    "mean": "not so; not very"
   },
   {
     "yomikata": "ゆるやか",
     "word": "緩やか",
-    "mean": "loose; slack / gentle; easy; slow / lenient; liberal; lax"
+    "mean": "gentle; slow"
   },
   {
     "yomikata": "ごえい",
     "word": "護衛",
-    "mean": "guard; convoy; escort"
+    "mean": "guard; escort"
   },
   {
     "yomikata": "や",
     "word": "矢",
-    "mean": "arrow / wedge; chock"
+    "mean": "arrow"
   },
   {
     "yomikata": "ベスト",
     "word": "",
-    "mean": "best / vest"
+    "mean": "best; vest"
   },
   {
     "yomikata": "ソロ",
@@ -82,7 +82,7 @@
   {
     "yomikata": "ちゃくしょく",
     "word": "着色",
-    "mean": "colouring; coloring; colorant"
+    "mean": "coloring"
   },
   {
     "yomikata": "じっぴ",
@@ -92,62 +92,62 @@
   {
     "yomikata": "せいほう",
     "word": "製法",
-    "mean": "manufacturing method; recipe; formula"
+    "mean": "manufacturing method; recipe"
   },
   {
     "yomikata": "おくらす",
     "word": "遅らす",
-    "mean": "to retard; to delay"
+    "mean": "to delay"
   },
   {
     "yomikata": "ひきさげる",
     "word": "引き下げる",
-    "mean": "to pull down; to lower; to reduce; to withdraw"
+    "mean": "to lower; to reduce"
   },
   {
     "yomikata": "ダウン",
     "word": "",
-    "mean": "down (opposite of up); becoming lower; being brought down; bringing down / being down (e.g. with a cold) and unable to continue (work) / down (e.g. a system); not running (e.g. servers) / download; downstream / down (feathers)"
+    "mean": "down; not running (system)"
   },
   {
     "yomikata": "とりもどす",
     "word": "取り戻す",
-    "mean": "to take back; to regain; to get back; to recover"
+    "mean": "to get back; to regain"
   },
   {
     "yomikata": "そち",
     "word": "措置",
-    "mean": "measure; step; action"
+    "mean": "measure; step"
   },
   {
     "yomikata": "へいれつ",
     "word": "並列",
-    "mean": "arranging in a line; standing in a row / parallel (electronics, computing, etc.)"
+    "mean": "parallel; side by side"
   },
   {
     "yomikata": "ちやほや",
     "word": "",
-    "mean": "to pamper; to make a fuss of; to spoil; to fawn over"
+    "mean": "to pamper; to spoil"
   },
   {
     "yomikata": "あこがれ",
     "word": "憧れ",
-    "mean": "yearning; longing; aspiration"
+    "mean": "longing; aspiration"
   },
   {
     "yomikata": "テレックス",
     "word": "",
-    "mean": "telex; teletypewriter exchange"
+    "mean": "telex"
   },
   {
     "yomikata": "けいさい",
     "word": "掲載",
-    "mean": "publication (e.g. of an article in a newspaper); carrying (e.g. a story); running (e.g. a serial); insertion (e.g. of an advertisement); printing; posting (e.g. on the web)"
+    "mean": "publication; posting"
   },
   {
     "yomikata": "ひきおこす",
     "word": "引き起こす",
-    "mean": "to cause; to induce; to bring about; to provoke / to pull upright; to help up (e.g. a fallen person)"
+    "mean": "to cause; to bring about"
   },
   {
     "yomikata": "やくば",
@@ -162,7 +162,7 @@
   {
     "yomikata": "いちがいに",
     "word": "一概に",
-    "mean": "unconditionally; as a rule"
+    "mean": "generally; as a rule"
   },
   {
     "yomikata": "あたし",
@@ -172,7 +172,7 @@
   {
     "yomikata": "こどく",
     "word": "孤独",
-    "mean": "solitude; loneliness; isolation"
+    "mean": "loneliness; solitude"
   },
   {
     "yomikata": "がいしょう",
@@ -182,42 +182,42 @@
   {
     "yomikata": "ほんの",
     "word": "本の",
-    "mean": "mere; only; just; slight"
+    "mean": "mere; only"
   },
   {
     "yomikata": "はんしょく",
     "word": "繁殖",
-    "mean": "breeding; multiplication; increase; propagation; reproduction"
+    "mean": "breeding; reproduction"
   },
   {
     "yomikata": "しんこう",
     "word": "進行",
-    "mean": "moving forward (e.g. vehicle); onward movement / advance (work, procedure, etc); advancement; progress / progress (of a disease); disease progression / progression (harmonic, melodic)"
+    "mean": "progress; advance"
   },
   {
     "yomikata": "にしび",
     "word": "西日",
-    "mean": "westering sun; setting sun"
+    "mean": "setting sun (in the west)"
   },
   {
     "yomikata": "つつ",
     "word": "筒",
-    "mean": "pipe; tube; cylinder / gun barrel / gun; cannon / well lining; well curb"
+    "mean": "tube; cylinder"
   },
   {
     "yomikata": "こうそう",
     "word": "構想",
-    "mean": "plan; plot; idea; conception; vision; scheme"
+    "mean": "plan; conception"
   },
   {
     "yomikata": "のがれる",
     "word": "逃れる",
-    "mean": "to escape"
+    "mean": "to escape; to get away"
   },
   {
     "yomikata": "ざひょう",
     "word": "座標",
-    "mean": "coordinate; coordinates"
+    "mean": "coordinates"
   },
   {
     "yomikata": "ほかく",
@@ -227,22 +227,22 @@
   {
     "yomikata": "つきる",
     "word": "尽きる",
-    "mean": "to be used up; to be run out; to be exhausted; to be consumed; to come to an end"
+    "mean": "to run out; to be used up"
   },
   {
     "yomikata": "こうにん",
     "word": "公認",
-    "mean": "official recognition; authorization; authorisation; licence; license; accreditation"
+    "mean": "official recognition; authorization"
   },
   {
     "yomikata": "まんまるい",
     "word": "真ん丸い",
-    "mean": "perfectly round; perfectly circular"
+    "mean": "perfectly round"
   },
   {
     "yomikata": "なにより",
     "word": "何より",
-    "mean": "most; best; above all"
+    "mean": "above all; most of all"
   },
   {
     "yomikata": "きょぜつ",
@@ -257,52 +257,52 @@
   {
     "yomikata": "たいへん",
     "word": "対辺",
-    "mean": "opposite side"
+    "mean": "opposite side (of a figure)"
   },
   {
     "yomikata": "きんきゅう",
     "word": "緊急",
-    "mean": "urgency; emergency"
+    "mean": "emergency; urgent"
   },
   {
     "yomikata": "ぼつぼつ",
     "word": "",
-    "mean": "gradually; little by little; in a breezy manner / soon; before long / here and there; scattered / spots; dots; pimples; rash"
+    "mean": "gradually; little by little"
   },
   {
     "yomikata": "つとまる",
     "word": "勤まる",
-    "mean": "to be fit for; to be equal to; to function properly"
+    "mean": "to be fit for (a job)"
   },
   {
     "yomikata": "ちょうせん",
     "word": "挑戦",
-    "mean": "challenge; defiance; dare; attempt; try"
+    "mean": "challenge; attempt"
   },
   {
     "yomikata": "えん",
     "word": "艶",
-    "mean": "charming; fascinating; voluptuous"
+    "mean": "charming; voluptuous"
   },
   {
     "yomikata": "たんそ",
     "word": "炭素",
-    "mean": "carbon (C)"
+    "mean": "carbon"
   },
   {
     "yomikata": "てまわし",
     "word": "手回し",
-    "mean": "turning by hand; hand-turned; hand-cranked / preparations; arrangements"
+    "mean": "preparations; arrangements"
   },
   {
     "yomikata": "いせい",
     "word": "異性",
-    "mean": "the opposite sex / isomerism"
+    "mean": "opposite sex"
   },
   {
     "yomikata": "きょうい",
     "word": "驚異",
-    "mean": "wonder; miracle; amazement; prodigy"
+    "mean": "wonder; amazement"
   },
   {
     "yomikata": "めかた",
@@ -312,52 +312,52 @@
   {
     "yomikata": "けがれる",
     "word": "汚れる",
-    "mean": "to be violated; to be corrupted; to be polluted; to be stained"
+    "mean": "to be defiled; to be stained"
   },
   {
     "yomikata": "かいろ",
     "word": "回路",
-    "mean": "circuit (electric) / cycle (e.g. Krebs cycle)"
+    "mean": "circuit (electric)"
   },
   {
     "yomikata": "たいまん",
     "word": "怠慢",
-    "mean": "negligence; neglect; carelessness; procrastination"
+    "mean": "negligence; neglect"
   },
   {
     "yomikata": "ほし",
     "word": "干し",
-    "mean": "drying; dried"
+    "mean": "dried (food, clothes, etc.)"
   },
   {
     "yomikata": "さんじょう",
     "word": "参上",
-    "mean": "calling on; visiting"
+    "mean": "visit; calling on (someone)"
   },
   {
     "yomikata": "ぼうとう",
     "word": "冒頭",
-    "mean": "beginning; start; outset"
+    "mean": "beginning; start"
   },
   {
     "yomikata": "じつじょう",
     "word": "実情",
-    "mean": "real condition; actual circumstances; actual state of affairs"
+    "mean": "real condition; actual circumstances"
   },
   {
     "yomikata": "モニター",
     "word": "",
-    "mean": "(computer) monitor / consumer who comments on products, television programs, etc. (programmes) / program or utility that monitors a program or activity"
+    "mean": "monitor; product tester"
   },
   {
     "yomikata": "ぶなん",
     "word": "無難",
-    "mean": "safe (e.g. choice); secure; innocuous; inoffensive / acceptable; passable; satisfactory; adequate; faultless; without flaw"
+    "mean": "safe; acceptable"
   },
   {
     "yomikata": "えんぽう",
     "word": "遠方",
-    "mean": "long way; distant place"
+    "mean": "distant place; far away"
   },
   {
     "yomikata": "オッケー",
@@ -367,12 +367,12 @@
   {
     "yomikata": "さいかい",
     "word": "再会",
-    "mean": "another meeting; meeting again; reunion"
+    "mean": "reunion; meeting again"
   },
   {
     "yomikata": "うわき",
     "word": "浮気",
-    "mean": "extramarital sex; affair; fooling around / infidelity; wantonness; unfaithfulness; inconstancy; fickleness; caprice"
+    "mean": "cheating; affair"
   },
   {
     "yomikata": "ちてき",
@@ -382,167 +382,167 @@
   {
     "yomikata": "ユニーク",
     "word": "",
-    "mean": "unique; individual; original; unusual"
+    "mean": "unique; original"
   },
   {
     "yomikata": "てはい",
     "word": "手配",
-    "mean": "arrangement; preparations / search (by police)"
+    "mean": "arrangements; police search"
   },
   {
     "yomikata": "ゆさぶる",
     "word": "揺さぶる",
-    "mean": "to shake; to jolt; to rock; to swing; to sway / to shake (e.g. the political world); to disturb; to shock; to upset / to put off a batter (by varying one's type of pitch)"
+    "mean": "to shake; to jolt"
   },
   {
     "yomikata": "ばんのう",
     "word": "万能",
-    "mean": "all-purpose; utility; universal / all-powerful; almighty; omnipotent; all-round (e.g. athlete)"
+    "mean": "all-purpose; versatile"
   },
   {
     "yomikata": "りゅう",
     "word": "流",
-    "mean": "fashion; way; style; manner / school (of thought) / class; rank; rate / current (electrical, water, etc.); flow; stream"
+    "mean": "style; school"
   },
   {
     "yomikata": "ふきょう",
     "word": "不況",
-    "mean": "recession; depression; slump"
+    "mean": "recession; slump"
   },
   {
     "yomikata": "きゅうさい",
     "word": "救済",
-    "mean": "relief; aid; rescue; salvation; help"
+    "mean": "relief; rescue"
   },
   {
     "yomikata": "しんこん",
     "word": "新婚",
-    "mean": "newly-wed"
+    "mean": "newlywed"
   },
   {
     "yomikata": "かためる",
     "word": "固める",
-    "mean": "to harden; to freeze; to strengthen; to solidify; to make (a fist); to tramp down (snow, dirt) / to put together; to collect; to gather; to consolidate / to make secure; to stabilize; to settle down; to strengthen (belief, resolution, etc.); to establish (evidence) / to fortify; to reinforce; to support / to wear for a specific purpose (armor, coat, etc.) / to swear; to resolutely vow; to sincerely promise / to tie tightly; to fasten / to hold a bow fully drawn"
+    "mean": "to harden; to strengthen"
   },
   {
     "yomikata": "あからさま",
     "word": "明白",
-    "mean": "plain; frank; candid; open; direct; straightforward; unabashed; blatant; flagrant"
+    "mean": "frank; blatant"
   },
   {
     "yomikata": "ジーパン",
     "word": "Ｇパン",
-    "mean": "jeans; dungarees"
+    "mean": "jeans"
   },
   {
     "yomikata": "しゅかん",
     "word": "主観",
-    "mean": "subjectivity; subject (philosophical); ego / one's personal opinion; one's own idea"
+    "mean": "subjectivity; one's own opinion"
   },
   {
     "yomikata": "ペコペコ",
     "word": "",
-    "mean": "very hungry; starving; famished / fawning; bowing and scraping; being obsequious; being servile; kowtowing; bowing repeatedly; cringing / giving in; being dented"
+    "mean": "very hungry; starving"
   },
   {
     "yomikata": "ふしん",
     "word": "不振",
-    "mean": "dullness; slump; stagnation; inactivity; depression"
+    "mean": "slump; stagnation"
   },
   {
     "yomikata": "せいとう",
     "word": "正当",
-    "mean": "just; justifiable; right; due; proper; equitable; reasonable; legitimate; legal; lawful"
+    "mean": "proper; legitimate"
   },
   {
     "yomikata": "ちゅうしょう",
     "word": "中傷",
-    "mean": "slander; libel; defamation; calumny; smear"
+    "mean": "slander; defamation"
   },
   {
     "yomikata": "ふうしゅう",
     "word": "風習",
-    "mean": "custom"
+    "mean": "custom; tradition"
   },
   {
     "yomikata": "ほうじる",
     "word": "報じる",
-    "mean": "to inform; to report"
+    "mean": "to report; to inform"
   },
   {
     "yomikata": "つくり",
     "word": "作り",
-    "mean": "making; producing; manufacturing; building; construction; make; structure / appearance (attire, make-up, etc.) / build; physique / sashimi / forced (smile, etc.)"
+    "mean": "making; structure"
   },
   {
     "yomikata": "くだん",
     "word": "件",
-    "mean": "the aforementioned; the said; (man, incident, etc.) in question; the above-mentioned; the aforesaid / the usual"
+    "mean": "the aforementioned; the said"
   },
   {
     "yomikata": "きしむ",
     "word": "軋む",
-    "mean": "to jar; to creak; to grate"
+    "mean": "to creak; to squeak"
   },
   {
     "yomikata": "かぶれる",
     "word": "気触れる",
-    "mean": "to develop a rash or inflammation (e.g. in response to a skin irritant); to react to (something) / to be strongly influenced (usu. negative or critical nuance)"
+    "mean": "to get a rash; to be influenced"
   },
   {
     "yomikata": "ぎあん",
     "word": "議案",
-    "mean": "legislative bill; measure / agenda item"
+    "mean": "bill; proposal"
   },
   {
     "yomikata": "いかにも",
     "word": "如何にも",
-    "mean": "indeed; really; phrase indicating agreement"
+    "mean": "indeed; really"
   },
   {
     "yomikata": "したしらべ",
     "word": "下調べ",
-    "mean": "preliminary investigation; preparation"
+    "mean": "preliminary research; preparation"
   },
   {
     "yomikata": "せいりょく",
     "word": "勢力",
-    "mean": "influence; power; might; strength; potency; force; energy"
+    "mean": "power; influence"
   },
   {
     "yomikata": "じょうし",
     "word": "上司",
-    "mean": "(one's) superior; (one's) boss; the higher-ups"
+    "mean": "boss; superior"
   },
   {
     "yomikata": "あし",
     "word": "葦",
-    "mean": "common reed (Phragmites australis)"
+    "mean": "reed (plant)"
   },
   {
     "yomikata": "さしひく",
     "word": "差し引く",
-    "mean": "to deduct; to take away; to dock / to make allowances for something; to bear something in mind / to ebb and flow"
+    "mean": "to deduct; to subtract"
   },
   {
     "yomikata": "がいか",
     "word": "外貨",
-    "mean": "foreign currency; foreign money; foreign exchange / foreign goods; imported goods"
+    "mean": "foreign currency; foreign exchange"
   },
   {
     "yomikata": "ごう",
     "word": "号",
-    "mean": "number; edition; make; model; issue; part of that group / sobriquet; pen-name / suffix attached to names of ships, trains, airplanes, etc."
+    "mean": "number; edition"
   },
   {
     "yomikata": "こじれる",
     "word": "拗れる",
-    "mean": "to get complicated; to grow worse; to turn sour"
+    "mean": "to get complicated; to worsen"
   },
   {
     "yomikata": "ちんれつ",
     "word": "陳列",
-    "mean": "exhibition; display; putting on show"
+    "mean": "display; exhibition"
   },
   {
     "yomikata": "ユニフォーム",
@@ -552,27 +552,27 @@
   {
     "yomikata": "がっちり",
     "word": "",
-    "mean": "solid; robust; well-built / tight; taut / shrewd; calculating; astute"
+    "mean": "solid; sturdy"
   },
   {
     "yomikata": "かんご",
     "word": "漢語",
-    "mean": "Japanese word of Chinese origin; Sino-Japanese word / (ancient) Chinese language"
+    "mean": "Sino-Japanese word; word of Chinese origin"
   },
   {
     "yomikata": "かいじょ",
     "word": "解除",
-    "mean": "cancellation; rescinding; release; calling off; lifting (sanctions); delisting"
+    "mean": "cancellation; lifting (restriction)"
   },
   {
     "yomikata": "さんしょう",
     "word": "参照",
-    "mean": "reference; bibliographical reference; consultation; browsing (e.g. when selecting a file to upload on a computer); checking out"
+    "mean": "reference; consultation"
   },
   {
     "yomikata": "みっしゅう",
     "word": "密集",
-    "mean": "crowd; close formation; dense"
+    "mean": "dense; crowded"
   },
   {
     "yomikata": "みせびらかす",
@@ -582,21 +582,21 @@
   {
     "yomikata": "すれる",
     "word": "擦れる",
-    "mean": "to rub; to chafe / to wear out; to become worn / to lose one's innocence; to become sly"
+    "mean": "to rub; to wear out"
   },
   {
     "yomikata": "せいみつ",
     "word": "精密",
-    "mean": "precise; exact; detailed; accurate; minute; close"
+    "mean": "precise; detailed"
   },
   {
     "yomikata": "けがらわしい",
     "word": "汚らわしい",
-    "mean": "filthy; unfair; dirty; untouchable; disgusting; nasty; foul; odious; repulsive"
+    "mean": "disgusting; filthy"
   },
   {
     "yomikata": "むだづかい",
     "word": "無駄遣い",
-    "mean": "waste (of money, time, etc.); squandering; frittering away"
+    "mean": "waste; squandering"
   }
 ]
